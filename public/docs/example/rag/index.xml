@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning Lion</title>
+    <link>http://localhost:1313/docs/example/rag/</link>
+    <description>Recent content on Learning Lion</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/docs/example/rag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/example/rag/evaluation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/example/rag/evaluation/</guid>
+      <description>&lt;h1 id=&#34;evaluation&#34;&gt;&#xD;&#xA;  Evaluation&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#evaluation&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;\kjhbk&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/example/rag/generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/example/rag/generation/</guid>
+      <description>&lt;h1 id=&#34;generation&#34;&gt;&#xD;&#xA;  Generation&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#generation&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;djkhf&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/example/rag/preprocessing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/example/rag/preprocessing/</guid>
+      <description>&lt;h1 id=&#34;preprocessing&#34;&gt;&#xD;&#xA;  Preprocessing&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#preprocessing&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;ergijaerjg&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/example/rag/retrieval/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/example/rag/retrieval/</guid>
+      <description>&lt;h1 id=&#34;retrieval&#34;&gt;&#xD;&#xA;  Retrieval&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#retrieval&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;dsakrarhv;glakwr&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+baseURL = 'https://learninglion.nl/'
+languageCode = 'en-us'
+title = 'Learning Lion'
+theme = 'hugo-book'
