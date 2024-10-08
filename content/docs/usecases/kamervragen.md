@@ -1,2 +1,2 @@
 # Kamervragen
- 
+ Het beantwoorden van Kamervragen kan een tijdrovende klus zijn. Learning Lion vereenvoudigt dit proces door beleidsmedewerkers te ondersteunen in het vinden van relevante documenten en het genereren van concept-antwoorden. Door gebruik te maken van semantisch zoeken en door eerder gestelde vragen te identificeren, levert het systeem meer consistentie en bespaart het tijd. Elke vraag wordt ondersteund met duidelijke bronnen, zodat gebruikers inzicht hebben in de herkomst van de antwoorden.
