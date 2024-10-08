@@ -5,7 +5,7 @@ title: "Project Achtergrond"
 ---
 
 # Project Achtergrond
-Veel medewerkers binnen de overheid vertrouwen op generatieve AI-toepassingen zoals ChatGPT voor taken als het samenvatten van documenten en het opstellen van e-mails. Dit brengt echter risico’s met zich mee op het gebied van privacy en auteursrecht. Daarom heeft de Nederlandse overheid, onder leiding van staatssecretaris Alexandra van Huffelen, besloten dat het gebruik van dergelijke tools binnen overheidsinstellingen verboden is wanneer er juridische risico’s zijn. Learning Lion is ontstaan vanuit de noodzaak om een AI-oplossing te ontwikkelen die volledig voldoet aan alle juridische en ethische eisen van zowel de overheid als onze samenleving. 
+Veel medewerkers binnen de overheid vertrouwen op generatieve AI-toepassingen zoals ChatGPT voor taken als het samenvatten van documenten en het opstellen van e-mails. Dit brengt echter risico’s met zich mee op het gebied van privacy en auteursrecht. Daarom heeft de Nederlandse overheid, onder leiding van staatssecretaris Alexandra van Huffelen, het voorlopige standpunt ingenomen dat het gebruik van dergelijke tools binnen overheidsinstellingen verboden is wanneer er juridische risico’s aan verbonden zijn. Learning Lion is ontstaan vanuit de noodzaak om een AI-oplossing te ontwikkelen die volledig voldoet aan alle juridische en ethische eisen van zowel de overheid als onze samenleving. 
 Het project biedt de kans om een transparante, betrouwbare, en efficiënte AI-oplossing te ontwikkelen door de kracht van Retrieval-Augmented Generation (RAG) te combineren met lokaal opgeslagen en verwerkte data, zodat gevoelige informatie altijd beschermd blijft. 
 
 ## Visie
