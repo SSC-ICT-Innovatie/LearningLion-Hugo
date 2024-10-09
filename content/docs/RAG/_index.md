@@ -19,3 +19,4 @@ In de generatie-fase wordt, op basis van de relevante documenten, een concept-an
 # Evaluation
 Het evalueren van de gegenereerde antwoorden blijft een cruciale stap. Hier wordt gekeken of het antwoord feitelijk correct is en goed aansluit bij de vraag. Gebruikers kunnen de bronnen controleren en zo de kwaliteit van de output beoordelen. 
 
+  
