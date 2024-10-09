@@ -21,3 +21,4 @@ Het doel van Learning Lion is om een veilige en betrouwbare oplossing te bieden 
 Het eindresultaat van dit project zal de succesvolle implementatie en inzet zijn van een efficiënt en veilig RAG model dat lokaal opereert binnen de rijksoverheid. Deze AI-oplossing zal de operationele efficiëntie verbeteren, de naleving van gegevensprivacy en regelgevende normen versterken, de besluitvormingsprocessen ondersteunen en de transparantie en verantwoordelijkheid binnen verschillende afdelingen bevorderen.
 {{< /columns >}}
 
+ 
