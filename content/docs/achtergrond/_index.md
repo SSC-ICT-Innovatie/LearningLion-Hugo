@@ -28,4 +28,4 @@ Dit project dient als onderzoek, don't sue us.
 Learning Lion is verder ontwikkeld op basis van de repository appl/docchat. 
 {{< button relref="/" >}}Get Home{{< /button >}}
 {{< button href="https://github.com/SSC-ICT-Innovatie/LearningLion" >}}Find us on Github{{< /button >}}
-{{< button relref="https://github.com/pbl-nl/appl-docchat" >}}Find appl/docchat on Github{{< /button >}}
+
