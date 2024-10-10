@@ -14,7 +14,7 @@ categories = [
     "golang",
 ]
 menu = "main"
-draft: true
+draft = true
 +++
 
 Hugo uses the excellent [Go][] [html/template][gohtmltemplate] library for
