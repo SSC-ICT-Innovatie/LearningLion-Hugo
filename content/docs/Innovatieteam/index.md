@@ -1,3 +1,9 @@
+---
+weight: 1
+bookFlatSection: true
+title: "Innovatieteam SSC-ICT"
+---
+
 # Meet the team!
 
 {{</* columns */>}} <!-- begin columns block -->
