@@ -4,19 +4,21 @@ bookFlatSection: true
 title: "The basics of RAG / Learning Lion"
 ---
 
-Learning Lion maakt gebruik van Retrieval-Augmented Generation (RAG) technologie. Dit houdt simpel gezegd in dat het model zoekt naar relevante documenten op basis van een vraag, waarna het een nauwkeurig antwoord formuleert dat ondersteund wordt door die bronnen. Dit maakt de antwoorden betrouwbaarder en geeft gebruikers inzicht in de herkomst van de informatie. Hieronder kunt u meer lezen over hoe RAG werkt en waarom het ideaal is voor gebruik binnen de overheid.
-
-# Preprocessing
-In de preprocessing-fase worden documenten opgedeeld in kleine stukken, oftewel "chunks", die vervolgens klaar worden gemaakt voor verdere analyse. Dit maakt het eenvoudiger om relevante informatie snel te vinden wanneer er een vraag wordt gesteld. [Meer weten over preprocessing]->link naar prepocessing.md .
+Learning Lion is een studie naar de mogelijke bruikbaarheid van generatieve AI binnen de Rijksoverheid. Specifieker: naar de kansen die Retrieval Augmented Generation de rijksambtenaar zou kunnen bieden in de toekomst. Dit wordt onderzocht middels verschillende case studies.
 
 # Retrieval
-De retrieval-fase is waar de kracht van RAG echt naar voren komt. Hierbij worden de meest relevante documenten opgezocht op basis van de vraag van de gebruiker. Deze documenten vormen vervolgens de basis voor het uiteindelijke antwoord.
+Retrieval in RAG staat voor het ophalen van relevante informatie uit een database op basis van een query. Veelal gebeurt dit middels een voorgetrainde neural retriever (zgn. dense retrieval). Lees meer [Lees meer]({{%ref "retrieval.md" %}})
 
 # Generation
-In de generatie-fase wordt, op basis van de relevante documenten, een concept-antwoord gegenereerd. Het taalmodel combineert de informatie uit de documenten om een goed onderbouwd antwoord te formuleren.
+In de generatie-fase wordt, op basis van de relevante documenten, een antwoord op de query gegenereerd. Het taalmodel combineert de informatie uit de documenten om een goed onderbouwd antwoord te formuleren. [Lees meer]({{%ref "generation.md" %}})
+
+# Overview
+Een RAG-pipeline kan men als volgt visualiseren
 
 
-# Evaluation
-Het evalueren van de gegenereerde antwoorden blijft een cruciale stap. Hier wordt gekeken of het antwoord feitelijk correct is en goed aansluit bij de vraag. Gebruikers kunnen de bronnen controleren en zo de kwaliteit van de output beoordelen. 
+# Verdere cruciale onderdelen van een RAG-pipeline
+## Preprocessing
+Voordat een retriever zijn werk kan doen, worden documenten opgedeeld in kleine stukken, oftewel "chunks", die vervolgens klaar worden gemaakt voor opslag in een vectorstore (een specifiek type database) Dit maakt het eenvoudiger om relevante informatie snel te vinden wanneer er een vraag wordt gesteld. [Lees meer]({{%ref "preprocessing.md" %}})
 
-  
+## Evaluation
+Het evalueren van de gegenereerde antwoorden blijft een cruciale stap. Voor de kwaliteit van de retrieval worden andere evaluatiecriteria gehanteerd dan voor de kwaliteit van het gegenereerde antwoord. Voor RAG is het verstandig om zowel kwalitatieve, als kwantitatieve metrics te gebruiken voor het evalueren van de effectiviteit van een pipeline. [Lees meer]({{%ref "preprocessing.md" %}})
