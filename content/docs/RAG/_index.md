@@ -13,8 +13,7 @@ Retrieval in RAG staat voor het ophalen van relevante informatie uit een databas
 In de generatie-fase wordt, op basis van de relevante documenten, een antwoord op de query gegenereerd. Het taalmodel combineert de informatie uit de documenten om een goed onderbouwd antwoord te formuleren. [Lees meer]({{%ref "generation.md" %}})
 
 # Overview
-Een RAG-pipeline kan men als volgt visualiseren
-
+![Een visueel overzicht van een simpele RAG-pipeline](/assets/RAGCHAIN01.PNG){style="width:50%;"}
 
 # Verdere cruciale onderdelen van een RAG-pipeline
 ## Preprocessing
