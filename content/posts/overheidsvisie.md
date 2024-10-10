@@ -1,7 +1,7 @@
 ---
 author: "Lara Mutsaers"
 date: 2024-10-10
-linktitle: Overheidsvisie
+linktitle: Overheidsbrede visie Generatieve AI
 title: Overheidbrede visie Generatieve AI
 weight: 10
 ---
