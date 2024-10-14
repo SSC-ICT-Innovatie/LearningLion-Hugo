@@ -10,7 +10,7 @@ title: "Innovatieteam SSC-ICT"
 <div style="display: flex; gap: 20px;">
 
 <div style="flex: 1;">
-**Victor Gevers**
+<strong></strong>Victor Gevers</strong>
   
 Innovatiemanager 
 </div>
@@ -24,7 +24,7 @@ Innovatiemanager
 <div style="display: flex; gap: 20px;">
 
 <div style="flex: 1;">
-**Ramon Fiedler**
+<strong>Ramon Fiedler</strong>
   
 Innovatiemanager 
 </div>
@@ -38,13 +38,13 @@ Innovatiemanager
 <div style="display: flex; gap: 20px;">
 
 <div style="flex: 1;">
-**Martha Romkes**
+<strong>Martha Romkes</strong>
   
 Project Lead MVP
 </div>
 
 <div style="flex: 1;">
-
+<img src="/RomkesMartha.png" alt="Daan" width="200">
 </div>
 
 </div>
@@ -59,6 +59,20 @@ Project Lead Kamervragen
 
 <div style="flex: 1;">
 <img src="/WijnhorstDaan.png" alt="Daan" width="200">
+</div>
+
+</div>
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+<strong>Nicky Jus</strong>
+  
+Project Lead WOO-verzoeken
+</div>
+
+<div style="flex: 1;">
+
 </div>
 
 </div>
