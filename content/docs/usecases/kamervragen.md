@@ -20,7 +20,7 @@ Door een RAG-model, zorg je ervoor dat eerder gestelde Kamervragen of vergelijkb
 ### Een concept-antwoord genereren met bijbehorende relevante bronnen
 Door aan het RAG-model een LLM te koppelen, kan er een concept-antwoord gegenereerd worden op basis van de gevonden bronnen. Dit geeft beleidsmedewerkers een richting in het beantwoorden van een Kamervraag. Door een bronvermelding toe te voegen heeft de beleidsmedewerker inzicht in welke bronnen er zijn gebruikt om het concept te genereren waardoor er controle kan plaatsvinden. 
 
-##Condities (operationele omgeving)
+## Condities (operationele omgeving)
 De belangrijkste conditie waaraan voldaan moet worden is het beheer van lokale GPU’s die in staat zijn om dit model te laten functioneren. Dit is de fysieke operationele vereiste, en hiernaast bestaan er ook nog vereisten voor het gebruik van de tool zelf:
 
 ### Naleving van wettelijke en regelgevende normen
