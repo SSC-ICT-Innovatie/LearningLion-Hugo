@@ -7,11 +7,19 @@ title: "Innovatieteam SSC-ICT"
 ![logo](/LL-logo.png)
 # Meet the team!
 
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
 # Victor Gevers
 Innovatiemanager 
+</div>
 
+<div style="flex: 1;">
 # Ramon Fiedler
 Innovatiemanager
+</div>
+
+</div>
 
 # Martha Romkes
 Project Lead MVP
