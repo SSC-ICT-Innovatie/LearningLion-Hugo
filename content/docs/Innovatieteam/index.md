@@ -6,6 +6,7 @@ title: "Innovatieteam SSC-ICT"
 
 # Meet the team!
 ![logo](/LL-logo.png)
+
 {{</* columns */>}} <!-- begin columns block -->
 # Victor Gevers
 Innovatiemanager 
@@ -30,6 +31,7 @@ Project Lead Kamervragen
 
 # Lara Mutsaers
 AI Governance 
+![Lara](/MutsaersLara)
 {{</* /columns */>}}
 
 {{</* columns */>}} <!-- begin columns block -->
