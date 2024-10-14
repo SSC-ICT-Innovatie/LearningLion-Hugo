@@ -21,7 +21,7 @@ Project Lead Kamervragen
 
 # Lara Mutsaers
 AI Governance 
-![Lara](/MutsaersLara.jpg {width='50' height='50'})
+<img src="MutsaersLara.jpg" alt="Lara" width="50" height="50">
 
 # Mark Heijnenkamp
 Developer
