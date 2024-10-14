@@ -44,7 +44,7 @@ Project Lead MVP
 </div>
 
 <div style="flex: 1;">
-<img src="/RomkesMartha.png" alt="Daan" width="200">
+<img src="/RomkesMartha.png" alt="Martha" width="200">
 </div>
 
 </div>
@@ -66,7 +66,7 @@ Project Lead Kamervragen
 <div style="display: flex; gap: 20px;">
 
 <div style="flex: 1;">
-<strong>Nicky Jus</strong>
+<strong>Nicky Ju</strong>
   
 Project Lead WOO-verzoeken
 </div>
@@ -80,7 +80,7 @@ Project Lead WOO-verzoeken
 <div style="display: flex; gap: 20px;">
 
 <div style="flex: 1;">
-**Lara Mutsaers**
+<strong>Lara Mutsaers</strong>
   
 AI Governance
 </div>
@@ -94,7 +94,21 @@ AI Governance
 <div style="display: flex; gap: 20px;">
 
 <div style="flex: 1;">
-**Mark Heijnekamp**
+<strong>Mark Heijnekamp</strong>
+  
+Developer
+</div>
+
+<div style="flex: 1;">
+<img src="/HeijnekampMark.jpg" alt="Mark" width="200">
+</div>
+
+</div>
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+<strong>Jasper Duncker</strong>
   
 Developer
 </div>
@@ -108,21 +122,7 @@ Developer
 <div style="display: flex; gap: 20px;">
 
 <div style="flex: 1;">
-**Jasper Duncker**
-  
-Developer
-</div>
-
-<div style="flex: 1;">
-
-</div>
-
-</div>
-
-<div style="display: flex; gap: 20px;">
-
-<div style="flex: 1;">
-**Ahmed Ezzammouri**
+<strong>Ahmed Ezzammouri</strong>
   
 Security
 </div>
