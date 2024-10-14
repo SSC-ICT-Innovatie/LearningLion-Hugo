@@ -8,3 +8,7 @@ disablePathToLower = true
 
 BookLogo = 'LL-logo.png'
 
+[markup]
+  [markup.goldmark]  
+    [markup.goldmark.renderer]
+      unsafe = true
