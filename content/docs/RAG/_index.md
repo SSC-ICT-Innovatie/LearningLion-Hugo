@@ -4,6 +4,10 @@ bookFlatSection: true
 title: "Retrieval Augmented Generation"
 ---
 
+# Wat is RAG?
+RAG staat voor Retrieval Augmented Generation. Visueel gezien ziet een basis RAG-pipeline er als volgt uit:
+
+![RAG](/RAGCHAIN01.PNG)
 
 # Preprocessing
 Voordat een retriever zijn werk kan doen, worden documenten opgedeeld in kleine stukken, oftewel "chunks", die vervolgens klaar worden gemaakt voor opslag in een vectorstore (een specifiek type database) Dit maakt het eenvoudiger om relevante informatie snel te vinden wanneer er een vraag wordt gesteld. [Lees meer]({{%ref "preprocessing.md" %}})
@@ -13,9 +17,6 @@ Retrieval in RAG staat voor het ophalen van relevante informatie uit een databas
 
 # Generation
 In de generatie-fase wordt, op basis van de relevante documenten, een antwoord op de query gegenereerd. Het taalmodel combineert de informatie uit de documenten om een goed onderbouwd antwoord te formuleren. [Lees meer]({{%ref "generation.md" %}})
-
-# Overview
-![RAG](/RAGCHAIN01.PNG)
 
 # Verdere cruciale onderdelen van een RAG-pipeline
 
