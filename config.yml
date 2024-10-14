@@ -1,1 +1,8 @@
 baseURL: 'https://learninglion.nl/'
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+    
+
