@@ -21,14 +21,15 @@ Project Lead Kamervragen
 
 # Lara Mutsaers
 AI Governance
-<img src="/MutsaersLara.jpg" alt="Lara" width="50">
-![](/MutsaersLara.jpg){.custom-image}
-
-
+<img src="/MutsaersLara.jpg" alt="Lara" width="100">
 
 # Mark Heijnenkamp
 Developer
 
 # Jasper Duncker
 Developer
+
+# Ahmed Ezzammouri
+Security
+<img src="/EzzamouriAhmed.jpg" alt="Ahmed" width="100">
 
