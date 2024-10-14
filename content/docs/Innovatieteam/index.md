@@ -10,7 +10,8 @@ title: "Innovatieteam SSC-ICT"
 <div style="display: flex; gap: 20px;">
 
 <div style="flex: 1;">
-<strong></strong>Victor Gevers</strong>
+  
+<strong>Victor Gevers</strong>
   
 Innovatiemanager 
 </div>
@@ -30,7 +31,7 @@ Innovatiemanager
 </div>
 
 <div style="flex: 1;">
-
+<img src="/FiedlerRamon.jfif" alt="Ramon" width="200">
 </div>
 
 </div>
@@ -114,7 +115,7 @@ Developer
 </div>
 
 <div style="flex: 1;">
-
+<img src="/DunckerJasper.jpg" alt="Jasper" width="200">
 </div>
 
 </div>
