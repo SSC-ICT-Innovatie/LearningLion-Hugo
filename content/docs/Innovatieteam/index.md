@@ -21,7 +21,8 @@ Project Lead Kamervragen
 
 # Lara Mutsaers
 AI Governance 
-![](MutsaersLara.jpg)
+![](/MutsaersLara.jpg)
+<img src="/MutsaersLara.jpg" alt="" width="50">
 
 # Mark Heijnenkamp
 Developer
