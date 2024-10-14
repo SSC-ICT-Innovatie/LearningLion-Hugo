@@ -2,6 +2,7 @@
 weight: 1
 bookFlatSection: true
 title: "Project Achtergrond"
+draft: true
 ---
 
 # Project Achtergrond
