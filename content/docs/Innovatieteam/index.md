@@ -17,7 +17,7 @@ Innovatiemanager
 </div>
 
 <div style="flex: 1;">
-
+<img src="/GeversVictor.jpg" alt="Victor" width="200">
 </div>
 
 </div>
