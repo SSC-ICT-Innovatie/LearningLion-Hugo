@@ -21,8 +21,7 @@ Project Lead Kamervragen
 
 # Lara Mutsaers
 AI Governance 
-{{ $image := .resources.Get "/MutsaersLara.jpg" }}
-{{ $image := $image.Resize "50x50" }}
+![Lara](/MutsaersLara.jpg?width=50)
 
 # Mark Heijnenkamp
 Developer
