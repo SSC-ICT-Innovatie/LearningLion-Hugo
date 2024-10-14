@@ -5,7 +5,7 @@ title: "Innovatieteam SSC-ICT"
 ---
 
 # Meet the team!
-![logo](/assets/LL-logo.png)
+![logo](/LL-logo.png)
 {{</* columns */>}} <!-- begin columns block -->
 # Victor Gevers
 Innovatiemanager 
