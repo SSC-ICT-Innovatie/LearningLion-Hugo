@@ -4,8 +4,12 @@ bookFlatSection: true
 title: "Innovatieteam SSC-ICT"
 ---
 
+<p style="text-align: center;">
 ![logo](/LL-logo.png)
+</p>
+  
 # Meet the team!
+
 
 <div style="display: flex; gap: 20px;">
 
