@@ -2,7 +2,6 @@ baseURL = 'https://learninglion.nl/'
 languageCode = 'en-us'
 title = 'Learning Lion'
 theme = 'hugo-book'
-assetDir = "static"
 
 # (Optional) Set this to true if you use capital letters in file names
 disablePathToLower = true
