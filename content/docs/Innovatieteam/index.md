@@ -115,7 +115,7 @@ Developer
 </div>
 
 <div style="flex: 1;">
-<img src="/DunckerJasper.jpg" alt="Jasper" width="200">
+<img src="/DunckerJasper.jfif" alt="Jasper" width="200">
 </div>
 
 </div>
