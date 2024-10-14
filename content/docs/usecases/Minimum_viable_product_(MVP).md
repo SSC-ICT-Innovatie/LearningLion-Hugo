@@ -1,2 +1,7 @@
 # Minimum Viable Product (MVP)
- 
+
+## Aanleiding en probleemstelling
+Generatieve AI is bijna niet meer weg te denken in het dagelijks leven. Vrijwel iedereen gebruikt het, waaronder ook rijksambtenaren. Vorig jaar is echter het voorlopig standpunt ingenomen dat het gebruik van generatieve AI verboden is als dit juridische risico’s met zich mee brengt. Toch blijkt het merendeel van rijksambtenaren alsnog ChatGPT te gebruiken, omdat mensen zich vaak niet bewust zijn van deze juridische risico’s. Een van die risico’s, is het risico op een actief datalek. Alle informatie die namelijk in ChatGPT gestopt wordt, wordt ook weer gebruikt wordt om het model verder mee te trainen, waardoor mogelijk gevoelige data in de database van OPENAI terechtkomt. Toch merken we dat er veel behoefte is aan AI technologie om verschillende processen binnen de overheid te verbeteren. De oplossing waar SSC-ICT mee heeft geexperimenteerd om aan deze behoefte te kunnen voldoen werd Learning Lion. 
+
+## Middelen 
+Voor het uitvoeren van de experimenten hebben we momenteel 2 verschillende middelen; allereerst is er een krachtige GPU server aanwezig op de koningskade 4 die geleast wordt, en daarnaast beschikt het team ook over een AI laptop die grote rekenopdrachten aan kan. Het doel van deze Proof of Concept (PoC) is om te experimenteren met de technologie, ervaring op te doen en te onderzoeken hoe SSC-ICT AI-infrastructuur uiteindelijk als dienst kan leveren. 
