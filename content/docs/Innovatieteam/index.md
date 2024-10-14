@@ -44,7 +44,7 @@ Project Lead MVP
 </div>
 
 <div style="flex: 1;">
-<img src="/RomkesMartha.png" alt="Martha" width="200">
+<img src="/RomkesMartha.jpg" alt="Martha" width="200">
 </div>
 
 </div>
@@ -52,7 +52,7 @@ Project Lead MVP
 <div style="display: flex; gap: 20px;">
 
 <div style="flex: 1;">
-**Daan Wijnhorst**
+<strong>Daan Wijnhorst</strong>
   
 Project Lead Kamervragen
 </div>
