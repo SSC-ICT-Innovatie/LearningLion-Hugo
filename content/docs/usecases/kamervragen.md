@@ -32,4 +32,4 @@ Het product moet toegankelijk zijn voor alle medewerkers, met een gebruiksvriend
 ### Transparantie van de modellen
 Het moet voor gebruikers duidelijk zijn hoe het systeem werkt en hoe beslissingen of antwoorden tot stand komen. 
 
-
+Meer informatie over de use case 'Kamervragen' kunt u vinden op de [githubpagina](https://github.com/SSC-ICT-Innovatie/LearningLion-kamervragen).
