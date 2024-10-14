@@ -10,7 +10,7 @@ Learning Lion is een experiment van het innovatieteam van SSC-ICT dat inspeelt o
 
 Learning Lion is gebaseerd op [Retrieval-Augmented Generation (RAG)](https://learninglion.nl/docs/RAG/) technologie, waarmee documenten snel en accuraat kunnen worden doorzocht en geïnterpreteerd. Gebruikers krijgen altijd te zien op basis van welke documenten een antwoord wordt gegenereerd, wat de betrouwbaarheid en daarmee de bruikbaarheid verhoogt voor ambtenaren. 
 
-Ons doel is om dit experiment zo transparant mogelijk uit te voeren. Om deze reden is alle voortgang publiekelijk inzichtbaar op [github](https://github.com/SSC-ICT-Innovatie/LearningLion}), en werken wij zoveel mogelijk met open-source modellen. Daarnaast werkt het systeem volledig lokaal, wat betekent dat alle gegevens binnen de beveiligde netwerken van de overheid blijven en voldoen aan de vereiste regelgeving op het gebied van gegevensbescherming.
+Ons doel is om dit experiment zo transparant mogelijk uit te voeren. Om deze reden is alle voortgang publiekelijk inzichtbaar op [github](https://github.com/SSC-ICT-Innovatie/LearningLion), en werken wij zoveel mogelijk met open-source modellen. Daarnaast werkt het systeem volledig lokaal, wat betekent dat alle gegevens binnen de beveiligde netwerken van de overheid blijven en voldoen aan de vereiste regelgeving op het gebied van gegevensbescherming.
 
 
 {{< button href="https://github.com/SSC-ICT-Innovatie/LearningLion" >}}Find us on Github{{< /button >}}
