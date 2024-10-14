@@ -4,11 +4,6 @@ bookFlatSection: true
 title: "Innovatieteam SSC-ICT"
 ---
 
-.custom-image {
-  max-width: 50px;
-  height: auto;
-}
-
 ![logo](/LL-logo.png)
 # Meet the team!
 
@@ -25,7 +20,8 @@ Project Lead MVP
 Project Lead Kamervragen
 
 # Lara Mutsaers
-AI Governance 
+AI Governance
+<img src="/MutsaersLara.jpg" alt="Lara" width="50">
 ![](/MutsaersLara.jpg){.custom-image}
 
 
