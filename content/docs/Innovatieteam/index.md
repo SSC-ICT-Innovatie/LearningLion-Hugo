@@ -10,35 +10,103 @@ title: "Innovatieteam SSC-ICT"
 <div style="display: flex; gap: 20px;">
 
 <div style="flex: 1;">
-# Victor Gevers
+Victor Gevers
 Innovatiemanager 
 </div>
 
 <div style="flex: 1;">
-# Ramon Fiedler
-Innovatiemanager
-</div>
 
 </div>
 
-# Martha Romkes
+</div>
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+Ramon Fiedler
+Innovatiemanager 
+</div>
+
+<div style="flex: 1;">
+
+</div>
+
+</div>
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+Martha Romkes
 Project Lead MVP
+</div>
 
+<div style="flex: 1;">
 
-# Daan Wijnhorst 
+</div>
+
+</div>
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+Daan Wijnhorst 
 Project Lead Kamervragen
+</div>
 
-# Lara Mutsaers
+<div style="flex: 1;">
+
+</div>
+
+</div>
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+Lara Mutsaers
 AI Governance
+</div>
+
+<div style="flex: 1;">
 <img src="/MutsaersLara.jpg" alt="Lara" width="100">
+</div>
 
-# Mark Heijnenkamp
+</div>
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+Mark Heijnekamp
 Developer
+</div>
 
-# Jasper Duncker
+<div style="flex: 1;">
+
+</div>
+
+</div>
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+Jasper Duncker
 Developer
+</div>
 
-# Ahmed Ezzammouri
+<div style="flex: 1;">
+
+</div>
+
+</div>
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+Ahmed Ezzammouri
 Security
+</div>
+
+<div style="flex: 1;">
 <img src="/EzzamouriAhmed.jpg" alt="Ahmed" width="100">
+</div>
+
 
