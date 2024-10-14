@@ -72,7 +72,7 @@ Project Lead WOO-verzoeken
 </div>
 
 <div style="flex: 1;">
-
+<img src="/JuNicky.jfif" alt="Nicky" width="200">
 </div>
 
 </div>
