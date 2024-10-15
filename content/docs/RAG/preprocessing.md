@@ -15,3 +15,4 @@ Als men dit model dan gebruikt om te zoeken naar woorden die iets te maken hebbe
 
 In de praktijk kan er op verschillende tekstgroottes (zin, woord, woorddeel, letter) numerieke coördinaten worden vormgegeven. Dit hangt af van de achtergrond van het model. Het is uiteraard niet precies zo simpel als beschreven. Daarnaast geldt bij dit soort modellen typisch niet een 3D representatie, maar een representatie van wel tientallen of honderdtallen dimensies. Dit is echter moeilijk voor te stellen.
 
+![Semantiek weergegeven in 3D-ruimte](/embedding.jpg)
