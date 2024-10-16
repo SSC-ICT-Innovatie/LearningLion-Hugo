@@ -1,3 +1,1 @@
-# Embeddingsmodel
-
-Lorem ipsum dolor sit amet
+Een embeddingsmodel is ...
