@@ -9,7 +9,7 @@ weight: 10
 De resultaten van de eerste micro-experimenten zijn een verkenning van de parameters en geen shoot-out van de verschillende modellen in absolute zin. 
 Wel geeft dit ons een beginpunt van parameters om vanuit te gaan voor de ontwikkeling van de uiteindelijke pipeline voor de use case Kamervragen.
 
-## Experimentele set-up
+## Experimentele set-up 
 
 ### Knowledge base
 Er is getest met 1159 Kamervragen met beantwoorden als knowledge base. Dit zijn alle Kamervragen met bestandextensie (zoals .pdf of .docx) uit de [API van de Open Data van de Tweede Kamer](https://opendata.tweedekamer.nl/). 
