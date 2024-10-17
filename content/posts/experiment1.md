@@ -50,10 +50,10 @@ Als standaard wordt er gekeken naar de 4 chunks die het meest op de query lijken
 De volgende embeddingsmodellen zijn gekozen om mee te experimenteren:
 
 - [BERTje](https://huggingface.co/GroNLP/bert-base-dutch-cased)
-- BERTje-sentence
-- Mini-LM-L12-v2
-- STELLA400M
-- Jina
+- [BERTje-sentence](https://huggingface.co/textgain/allnli-GroNLP-bert-base-dutch-cased)
+- [Mini-LM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2)
+- [STELLA400M](https://huggingface.co/dunzhang/stella_en_400M_v5)
+- [Jina](https://huggingface.co/jinaai/jina-embeddings-v3)
 
 BERTje en BERTje-sentence zijn gekozen omdat ze op Nederlandse data zijn getraind voor andere doeleinden. De andere drie modellen zijn gekozen vanwege de aanwezigheid in leaderboards en hun grootte.
 
