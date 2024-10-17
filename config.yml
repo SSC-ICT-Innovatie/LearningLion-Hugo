@@ -1,5 +1,6 @@
 baseURL: 'https://learninglion.nl/'
 disablePathToLower: true
+preserveTaxonomyNames: true
 markup:
   goldmark:
     renderer:
