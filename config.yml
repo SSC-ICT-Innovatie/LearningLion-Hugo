@@ -1,4 +1,5 @@
 baseURL: 'https://learninglion.nl/'
+disablePathToLower: true
 markup:
   goldmark:
     renderer:
