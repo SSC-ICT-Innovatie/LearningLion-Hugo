@@ -5,6 +5,7 @@ theme = 'hugo-book'
 
 # (Optional) Set this to true if you use capital letters in file names
 disablePathToLower = true
+preserveTaxonomyNames = true
 
 BookLogo = 'LL-logo.png'
 
