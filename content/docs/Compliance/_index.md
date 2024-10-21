@@ -1,7 +1,7 @@
 ---
-weight: 2
-bookCollapseSection: true
-title: "Compliance"
+weight: 1
+bookFlatSection: true
+title: "Use Cases"
 ---
 
-{{<section summary >}}
+LearningLion is een onderzoeksproject. Als de functionaliteit van LearningLion ooit als dienst wordt geleverd, moet het aan allerlei soorten wet- en regelgeving voldoen. Hier lees je welke kaders er relevant zijn.
