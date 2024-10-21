@@ -11,8 +11,8 @@ Beschrijving
 </div>
 
 <div style="flex: 2;">
-AI ondersteunt bij het opstellen van antwoorden op Kamervragen, wat de efficiëntie van het werk kan bevorderen. AI doorzoekt een database met kamerstukken (en nieuwsberichten) om relevante documenten te verzamelen, en genereert een concept antwoord gebaseerd op deze relevante documenten. Het concept antwoord van de Kamervraag kan de stafmedewerker gebruiken als voorwerk voor de dossierhouder die de Kamervraag daadwerkelijk beantwoordt.
-  <br />  
+AI ondersteunt bij het opstellen van antwoorden op Kamervragen, wat de efficiëntie van het werk kan bevorderen. AI doorzoekt een database met kamerstukken (en nieuwsberichten) om relevante documenten te verzamelen, en genereert een concept antwoord gebaseerd op deze relevante documenten. Het concept antwoord van de Kamervraag kan de stafmedewerker gebruiken als voorwerk voor de dossierhouder die de Kamervraag daadwerkelijk beantwoordt.  
+
 </div>
 
 </div>
@@ -23,8 +23,8 @@ Primary Actor
 </div>
 
 <div style="flex: 2;">
-Parlementair staff medewerker
-  <br />
+Parlementair staff medewerker  
+  
 </div>
 
 </div>
@@ -42,8 +42,8 @@ Azure OpenAI (GenAI oplossing op Azure met AOAI service – data staat in Azure:
 
 <strong></strong>Secondary Actor 2 (Scenario 1):</strong>
 
-LearningLion (Opensource genAI on-premise oplossing ontwikkeld door SSC-ICT)
-<br />
+LearningLion (Opensource genAI on-premise oplossing ontwikkeld door SSC-ICT)  
+
 </div>
 
 </div>
@@ -54,13 +54,11 @@ Preconditions
 </div>
 
 <div style="flex: 2;">
-Het systeem bevat (neartime) open data vanuit de:
-
-Kamerstukken (De [open data van de Tweede Kamer](https://opendata.tweedekamer.nl/))
+Het systeem bevat (neartime) open data vanuit de kamerstukken (De [open data van de Tweede Kamer](https://opendata.tweedekamer.nl/))
 - Enkel Kamervragen van 01-01-2024 tot 01-07-2024 worden gebruikt voor deze use case, nog specifieker de 50 recentste vanaf 30-07-2024.
 - Alleen Kamervragen die door DGPenV worden beantwoord.
-- De knowledge base is gevuld met data vanaf 2010.
-  <br />
+- De knowledge base is gevuld met data vanaf 2010.  
+  
 </div>
 
 </div>
@@ -71,8 +69,8 @@ Postconditions
 </div>
 
 <div style="flex: 2;">
-Het gegenereerde antwoord is zichtbaar, inclusief referenties naar de brondocumenten waarop het antwoord is gebaseerd. De historie van gegenereerde antwoorden staan in dezelfde chat/tab.
-  <br />
+Het gegenereerde antwoord is zichtbaar, inclusief referenties naar de brondocumenten waarop het antwoord is gebaseerd. De historie van gegenereerde antwoorden staan in dezelfde chat/tab.  
+
 </div>
 
 </div>
@@ -83,8 +81,8 @@ Triggers
 </div>
 
 <div style="flex: 2;">
-Primaire actor typt -de Kamervraag- in het systeem en drukt op ENTER.
-  <br />
+Primaire actor typt -de Kamervraag- in het systeem en drukt op ENTER.  
+
 </div>
 
 </div>
@@ -100,8 +98,8 @@ Primaire actor typt -de Kamervraag- in het systeem en drukt op ENTER. Het systee
 Requirements uitkomst antwoord:
 - Gemiddeld 50-250 aantal woorden;
 - Het antwoord is in dezelfde toon als die van de eerder beantwoorde vragen uit de dataset;
-- Door het systeem geraadpleegde bronnen worden met een voetnoot aan het antwoord gekoppeld. Deze bronnen zijn in hetzelfde systeem inzichtelijk. 
-  <br />
+- Door het systeem geraadpleegde bronnen worden met een voetnoot aan het antwoord gekoppeld. Deze bronnen zijn in hetzelfde systeem inzichtelijk.   
+
 </div>
 
 </div>
@@ -112,8 +110,8 @@ Extensions
 </div>
 
 <div style="flex: 2;">
-Primaire actor vraagt aan het systeem of er een Kamervraag met een bepaald onderwerp eerder is gesteld en wat het antwoord daarvan was. Het systeem genereert een uitkomst met Kamervragen en de daarbij behorende antwoorden die betrekking hebben op dit bepaalde onderwerp (deze Kamervragen en antwoorden zijn onbewerkt door het systeem!)
-  <br />
+Primaire actor vraagt aan het systeem of er een Kamervraag met een bepaald onderwerp eerder is gesteld en wat het antwoord daarvan was. Het systeem genereert een uitkomst met Kamervragen en de daarbij behorende antwoorden die betrekking hebben op dit bepaalde onderwerp (deze Kamervragen en antwoorden zijn onbewerkt door het systeem!)  
+
 </div>
 
 </div>
@@ -125,8 +123,8 @@ Frequency of Use
 </div>
 
 <div style="flex: 2;">
-DG-breed ca. 100 keer per jaar. (Dit is een zeer lage schatting, aangezien er dagelijks tientallen kamervragen gesteld worden. Het daadwerkelijke gebruik zal afhangen van JenV).
-  <br />
+DG-breed ca. 100 keer per jaar. (Dit is een zeer lage schatting, aangezien er dagelijks tientallen kamervragen gesteld worden. Het daadwerkelijke gebruik zal afhangen van JenV).  
+
 </div>
 
 </div>
@@ -137,8 +135,8 @@ Owner
 </div>
 
 <div style="flex: 2;">
-Ministerie van Justitie en Veiligheid, Dienstencentrum.
-  <br />
+Ministerie van Justitie en Veiligheid, Dienstencentrum.  
+
 </div>
 
 </div>
@@ -149,8 +147,8 @@ Priority
 </div>
 
 <div style="flex: 2;">
-Hoog
-  <br />
+Hoog  
+
 </div>
 
 </div>
