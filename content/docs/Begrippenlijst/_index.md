@@ -1,4 +1,5 @@
 ---
+weight: 5
 bookCollapseSection: true
 title: "Begrippenlijst"
 disablePathToLower: true
