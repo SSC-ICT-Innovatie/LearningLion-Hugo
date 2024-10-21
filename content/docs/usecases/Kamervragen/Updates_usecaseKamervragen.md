@@ -10,8 +10,9 @@ title: "Updates use case Kamervragen"
 Beschrijving
 </div>
 
-<div style="flex: 1;">
+<div style="flex: 2;">
 AI ondersteunt bij het opstellen van antwoorden op Kamervragen, wat de efficiëntie van het werk kan bevorderen. AI doorzoekt een database met kamerstukken (en nieuwsberichten) om relevante documenten te verzamelen, en genereert een concept antwoord gebaseerd op deze relevante documenten. Het concept antwoord van de Kamervraag kan de stafmedewerker gebruiken als voorwerk voor de dossierhouder die de Kamervraag daadwerkelijk beantwoordt.
+  
 </div>
 
 </div>
@@ -21,18 +22,20 @@ AI ondersteunt bij het opstellen van antwoorden op Kamervragen, wat de efficiën
 Primary Actor
 </div>
 
-<div style="flex: 1;">
+<div style="flex: 2;">
 Parlementair staff medewerker
+  
 </div>
 
 </div>
 
 <div style="display: flex; gap: 20px;">
-<div style="flex: 1;">
+<div style="flex: 2;">
 Secondary Actor(s)
+  
 </div>
 
-<div style="flex: 1;">
+<div style="flex: 2;">
 <strong></strong>Secondary Actor 1 (Scenario 1):</strong>
   
 Azure OpenAI (GenAI oplossing op Azure met AOAI service – data staat in Azure: SSC-ICT faciliteert het Azure platform voor o.a. de AOAI diensten en geeft ontwikkelaars van Microsoft of partner daar toegang toe)
@@ -40,6 +43,7 @@ Azure OpenAI (GenAI oplossing op Azure met AOAI service – data staat in Azure:
 <strong></strong>Secondary Actor 2 (Scenario 1):</strong>
 
 LearningLion (Opensource genAI on-premise oplossing ontwikkeld door SSC-ICT)
+
 </div>
 
 </div>
@@ -49,7 +53,7 @@ LearningLion (Opensource genAI on-premise oplossing ontwikkeld door SSC-ICT)
 Preconditions
 </div>
 
-<div style="flex: 1;">
+<div style="flex: 2;">
 Het systeem bevat (neartime) open data vanuit de:
 
 Kamerstukken (De [open data van de Tweede Kamer](https://opendata.tweedekamer.nl/))
@@ -66,7 +70,7 @@ Kamerstukken (De [open data van de Tweede Kamer](https://opendata.tweedekamer.nl
 Postconditions
 </div>
 
-<div style="flex: 1;">
+<div style="flex: 2;">
 Het gegenereerde antwoord is zichtbaar, inclusief referenties naar de brondocumenten waarop het antwoord is gebaseerd. De historie van gegenereerde antwoorden staan in dezelfde chat/tab.
   
 </div>
@@ -78,7 +82,7 @@ Het gegenereerde antwoord is zichtbaar, inclusief referenties naar de brondocume
 Triggers
 </div>
 
-<div style="flex: 1;">
+<div style="flex: 2;">
 Primaire actor typt -de Kamervraag- in het systeem en drukt op ENTER.
 </div>
 
@@ -89,7 +93,7 @@ Primaire actor typt -de Kamervraag- in het systeem en drukt op ENTER.
 Main Succes Scenario
 </div>
 
-<div style="flex: 1;">
+<div style="flex: 2;">
 Primaire actor typt -de Kamervraag- in het systeem en drukt op ENTER. Het systeem produceert een lijst met relevante documenten voor deze vraag, met een gegenereerd concept-antwoord op een schriftelijke kamervraag, welke alleen informatie gebruikt die uit deze data te herleiden is.
 
 Requirements uitkomst antwoord:
@@ -106,8 +110,9 @@ Requirements uitkomst antwoord:
 Extensions
 </div>
 
-<div style="flex: 1;">
+<div style="flex: 2;">
 Primaire actor vraagt aan het systeem of er een Kamervraag met een bepaald onderwerp eerder is gesteld en wat het antwoord daarvan was. Het systeem genereert een uitkomst met Kamervragen en de daarbij behorende antwoorden die betrekking hebben op dit bepaalde onderwerp (deze Kamervragen en antwoorden zijn onbewerkt door het systeem!)
+  
 </div>
 
 </div>
@@ -115,9 +120,10 @@ Primaire actor vraagt aan het systeem of er een Kamervraag met een bepaald onder
 <div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
 Frequency of Use
+  
 </div>
 
-<div style="flex: 1;">
+<div style="flex: 2;">
 DG-breed ca. 100 keer per jaar. (Dit is een zeer lage schatting, aangezien er dagelijks tientallen kamervragen gesteld worden. Het daadwerkelijke gebruik zal afhangen van JenV).
 </div>
 
@@ -128,8 +134,9 @@ DG-breed ca. 100 keer per jaar. (Dit is een zeer lage schatting, aangezien er da
 Owner
 </div>
 
-<div style="flex: 1;">
+<div style="flex: 2;">
 Ministerie van Justitie en Veiligheid, Dienstencentrum.
+  
 </div>
 
 </div>
@@ -139,8 +146,9 @@ Ministerie van Justitie en Veiligheid, Dienstencentrum.
 Priority
 </div>
 
-<div style="flex: 1;">
+<div style="flex: 2;">
 Hoog
+  
 </div>
 
 </div>
