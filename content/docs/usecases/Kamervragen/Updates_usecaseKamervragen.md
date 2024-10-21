@@ -11,11 +11,12 @@ Beschrijving
 </div>
 
 <div style="flex: 1;">
-AI ondersteunt bij het opstellen van antwoorden op Kamervragen, wat de efficiëntie van het werk kan bevorderen. AI doorzoekt een database met kamerstukken (en nieuwsberichten) om relevante documenten te verzamelen, en genereert een concept antwoord gebaseerd op deze relevante documenten. Het concept antwoord van de Kamervraag kan de staff medewerker gebruiken als voorwerk voor de dossierhouder die de Kamervraag daadwerkelijk beantwoordt.
+AI ondersteunt bij het opstellen van antwoorden op Kamervragen, wat de efficiëntie van het werk kan bevorderen. AI doorzoekt een database met kamerstukken (en nieuwsberichten) om relevante documenten te verzamelen, en genereert een concept antwoord gebaseerd op deze relevante documenten. Het concept antwoord van de Kamervraag kan de stafmedewerker gebruiken als voorwerk voor de dossierhouder die de Kamervraag daadwerkelijk beantwoordt.
 </div>
 
 </div>
 
+<div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
 Primary Actor
 </div>
@@ -26,6 +27,7 @@ Parlementair staff medewerker
 
 </div>
 
+<div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
 Secondary Actor(s)
 </div>
@@ -42,6 +44,7 @@ LearningLion (Opensource genAI on-premise oplossing ontwikkeld door SSC-ICT)
 
 </div>
 
+<div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
 Preconditions
 </div>
@@ -58,6 +61,7 @@ Kamerstukken (De [open data van de Tweede Kamer](https://opendata.tweedekamer.nl
 
 </div>
 
+<div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
 Postconditions
 </div>
@@ -69,6 +73,7 @@ Het gegenereerde antwoord is zichtbaar, inclusief referenties naar de brondocume
 
 </div>
 
+<div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
 Triggers
 </div>
@@ -79,6 +84,7 @@ Primaire actor typt -de Kamervraag- in het systeem en drukt op ENTER.
 
 </div>
 
+<div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
 Main Succes Scenario
 </div>
@@ -95,6 +101,7 @@ Requirements uitkomst antwoord:
 
 </div>
 
+<div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
 Extensions
 </div>
@@ -105,6 +112,7 @@ Primaire actor vraagt aan het systeem of er een Kamervraag met een bepaald onder
 
 </div>
 
+<div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
 Frequency of Use
 </div>
@@ -115,6 +123,7 @@ DG-breed ca. 100 keer per jaar. (Dit is een zeer lage schatting, aangezien er da
 
 </div>
 
+<div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
 Owner
 </div>
@@ -125,6 +134,7 @@ Ministerie van Justitie en Veiligheid, Dienstencentrum.
 
 </div>
 
+<div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
 Priority
 </div>
