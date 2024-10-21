@@ -134,6 +134,6 @@ Security
 
 <div style="flex: 1;">
 <img src="/EzzamouriAhmed.jpg" alt="Ahmed" width="200">
-</div>
+</div> 
 
 
