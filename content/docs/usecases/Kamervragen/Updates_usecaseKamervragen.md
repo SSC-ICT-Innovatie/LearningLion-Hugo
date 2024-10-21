@@ -12,7 +12,7 @@ Beschrijving
 
 <div style="flex: 2;">
 AI ondersteunt bij het opstellen van antwoorden op Kamervragen, wat de efficiëntie van het werk kan bevorderen. AI doorzoekt een database met kamerstukken (en nieuwsberichten) om relevante documenten te verzamelen, en genereert een concept antwoord gebaseerd op deze relevante documenten. Het concept antwoord van de Kamervraag kan de stafmedewerker gebruiken als voorwerk voor de dossierhouder die de Kamervraag daadwerkelijk beantwoordt.
-  
+  <br />  
 </div>
 
 </div>
@@ -24,13 +24,13 @@ Primary Actor
 
 <div style="flex: 2;">
 Parlementair staff medewerker
-  
+  <br />
 </div>
 
 </div>
 
 <div style="display: flex; gap: 20px;">
-<div style="flex: 2;">
+<div style="flex: 1;">
 Secondary Actor(s)
   
 </div>
@@ -43,7 +43,7 @@ Azure OpenAI (GenAI oplossing op Azure met AOAI service – data staat in Azure:
 <strong></strong>Secondary Actor 2 (Scenario 1):</strong>
 
 LearningLion (Opensource genAI on-premise oplossing ontwikkeld door SSC-ICT)
-
+<br />
 </div>
 
 </div>
@@ -60,7 +60,7 @@ Kamerstukken (De [open data van de Tweede Kamer](https://opendata.tweedekamer.nl
 - Enkel Kamervragen van 01-01-2024 tot 01-07-2024 worden gebruikt voor deze use case, nog specifieker de 50 recentste vanaf 30-07-2024.
 - Alleen Kamervragen die door DGPenV worden beantwoord.
 - De knowledge base is gevuld met data vanaf 2010.
-  
+  <br />
 </div>
 
 </div>
@@ -72,7 +72,7 @@ Postconditions
 
 <div style="flex: 2;">
 Het gegenereerde antwoord is zichtbaar, inclusief referenties naar de brondocumenten waarop het antwoord is gebaseerd. De historie van gegenereerde antwoorden staan in dezelfde chat/tab.
-  
+  <br />
 </div>
 
 </div>
@@ -84,6 +84,7 @@ Triggers
 
 <div style="flex: 2;">
 Primaire actor typt -de Kamervraag- in het systeem en drukt op ENTER.
+  <br />
 </div>
 
 </div>
@@ -100,7 +101,7 @@ Requirements uitkomst antwoord:
 - Gemiddeld 50-250 aantal woorden;
 - Het antwoord is in dezelfde toon als die van de eerder beantwoorde vragen uit de dataset;
 - Door het systeem geraadpleegde bronnen worden met een voetnoot aan het antwoord gekoppeld. Deze bronnen zijn in hetzelfde systeem inzichtelijk. 
-
+  <br />
 </div>
 
 </div>
@@ -112,7 +113,7 @@ Extensions
 
 <div style="flex: 2;">
 Primaire actor vraagt aan het systeem of er een Kamervraag met een bepaald onderwerp eerder is gesteld en wat het antwoord daarvan was. Het systeem genereert een uitkomst met Kamervragen en de daarbij behorende antwoorden die betrekking hebben op dit bepaalde onderwerp (deze Kamervragen en antwoorden zijn onbewerkt door het systeem!)
-  
+  <br />
 </div>
 
 </div>
@@ -125,6 +126,7 @@ Frequency of Use
 
 <div style="flex: 2;">
 DG-breed ca. 100 keer per jaar. (Dit is een zeer lage schatting, aangezien er dagelijks tientallen kamervragen gesteld worden. Het daadwerkelijke gebruik zal afhangen van JenV).
+  <br />
 </div>
 
 </div>
@@ -136,7 +138,7 @@ Owner
 
 <div style="flex: 2;">
 Ministerie van Justitie en Veiligheid, Dienstencentrum.
-  
+  <br />
 </div>
 
 </div>
@@ -148,7 +150,7 @@ Priority
 
 <div style="flex: 2;">
 Hoog
-  
+  <br />
 </div>
 
 </div>
