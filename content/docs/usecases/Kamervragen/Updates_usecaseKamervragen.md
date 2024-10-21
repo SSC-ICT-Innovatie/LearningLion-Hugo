@@ -36,11 +36,11 @@ Secondary Actor(s)
 </div>
 
 <div style="flex: 2;">
-<strong></strong>Secondary Actor 1 (Scenario 1):</strong>
+<strong>Secondary Actor 1 (Scenario 1):</strong>
   
 Azure OpenAI (GenAI oplossing op Azure met AOAI service – data staat in Azure: SSC-ICT faciliteert het Azure platform voor o.a. de AOAI diensten en geeft ontwikkelaars van Microsoft of partner daar toegang toe)
 
-<strong></strong>Secondary Actor 2 (Scenario 1):</strong>
+<strong>Secondary Actor 2 (Scenario 1):</strong>
 
 LearningLion (Opensource genAI on-premise oplossing ontwikkeld door SSC-ICT)  
 
