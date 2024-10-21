@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "Use Cases"
+title: "Compliance"
 ---
 
 LearningLion is een onderzoeksproject. Als de functionaliteit van LearningLion ooit als dienst wordt geleverd, moet het aan allerlei soorten wet- en regelgeving voldoen. Hier lees je welke kaders er relevant zijn.
