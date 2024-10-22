@@ -1,1 +1,4 @@
-
+---
+bookFlatSection: true
+title: "Auteurswet"
+---
