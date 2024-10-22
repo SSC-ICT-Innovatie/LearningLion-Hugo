@@ -452,8 +452,10 @@ Preconditions
 </div>
 <div style="flex: 2;">
 Het systeem bevat (neartime) open data vanuit de:
+
 - Kamerstukken (De <a href="https://opendata.tweedekamer.nl/">Open data van de Tweede Kamer</a>).
 - Knipselkrant (JenV)
+
 </div>
 </div>
 
