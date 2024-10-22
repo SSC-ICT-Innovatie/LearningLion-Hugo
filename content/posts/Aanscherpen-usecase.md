@@ -29,9 +29,10 @@ Op basis van deze onduidelijkheid hebben we een korte [explainer](https://github
 1. <strong>Hoe groot wordt de brondata waarop de database wordt gebaseerd? (de knowledge base)</strong>
 Wanneer de retriever een speld in een hooiberg mag zoeken, is het makkelijker om een speld te vinden in een kleinere hooiberg dan in een grote. Wanneer de database van eerder gestelde Kamervragen groot is, zal de ruis voor de retriever toenemen en de relevantie van de opgehaalde tekststukjes in de database afnemen. Wel is het belangrijk dat de hooiberg groot genoeg is zodat de externe validiteit van de RAG-pipeline wordt gewaarborgd. Het is aan te raden om de database te baseren op de zoekwijdte die het meest wordt gebruikt door domeinexperts.
 
-2. <strong>Hoe worden vragen bewerkt om de externe validiteit van de tool te testen?</strong>
+2. <strong>Hoe worden vragen bewerkt om de externe validiteit van de tool te testen?</strong><br/>
 De dataset die werd voorgesteld om steeds als een inkomende Kamervraag te fungeren (testset) bestaat uit 50 eerder gestelde sub-vragen. Omdat bij nieuwe Kamervragen vaak een exact correct antwoord ontbreekt, is het mogelijk interessant voor de externe validiteit van de test om deze subvragen anders te formuleren. Als we besluiten met subvragen te werken kan de inleiding van de set vragen van cruciaal belang worden voor een correct antwoord. Deze wordt dan mogelijk gevraagd om ook op te geven in de uiteindelijke tool.
 
 Deze vragen resulteerden uiteindelijk in de conclusie dat voor de knowledge base alle data vanaf 2010 wordt gebruikt. Voor het testen van de tool worden enkel Kamervragen gebruikt van 01-01-2024 tot 01-07-2024, specifieker: de 50 recentste Kamervragen vanaf 30-07-2024. Er worden alleen vragen behandeld die door DPGenV worden beantwoord.
+
 Ons advies blijft hiernaast nog steeds om de validiteit van de tool te toetsen door synthetische data te gebruiken (subvragen van daadwerkelijke Kamervragen herformuleren).
 
