@@ -17,7 +17,7 @@ Soms is het moeilijk in te schatten of data wel of geen persoonsgegevens bevat. 
 - medische gegevens (over individuele personen en gekoppeld aan de identiteit)
 
 ## Hoe is de AVG toepasbaar op LearningLion?
-Het antwoord op deze vraag begint met het identificeren welk type gegevens verwerkt zijn in onze database. In het geval van kamervragen bijvoorbeeld, bestaat de dataset uit eerder gestelde kamervragen en de antwoorden hierop, specifiek degene die al publiekelijk openbaar gemaakt zijn op de website van de tww Kamervragen | Tweede Kamer der Staten-Generaal. Wel wordt er in deze vragen vaak verwezen naar namen van personen, welke in dit geval identificeerbaar zijn aangezien het publieke personen (kamerleden) betreft. Om deze reden houden wij ons aan de richtlijnen zoals omschreven in de AVG. Naast namen worden er geen andere vormen van persoonsgegevens verwerkt.
+Het antwoord op deze vraag begint met het identificeren welk type gegevens verwerkt zijn in onze database. In het geval van kamervragen bijvoorbeeld, bestaat de dataset uit eerder gestelde kamervragen en de antwoorden hierop, specifiek degene die al publiekelijk openbaar gemaakt zijn op de [website van de Tweede Kamer der Staten-Generaal](https://www.tweedekamer.nl/kamerstukken/kamervragen). Wel wordt er in deze vragen vaak verwezen naar namen van personen, welke in dit geval identificeerbaar zijn aangezien het publieke personen (kamerleden) betreft. Om deze reden houden wij ons aan de richtlijnen zoals omschreven in de AVG. Naast namen worden er geen andere vormen van persoonsgegevens verwerkt.
 
 ## Doelbinding
 Organisaties mogen persoonsgegevens alleen verzamelen met een gerechtvaardigd doel. Dat doel moet specifiek zijn en vooraf uitdrukkelijk zijn omschreven. Organisaties mogen dus niet alvast persoonsgegevens gaan verzamelen omdat die misschien ooit van pas gaan komen. Vervolgens moet het doel waarvoor de persoonsgegevens verwerkt worden verenigbaar zijn met het doel waarvoor deze gegevens oorspronkelijk verzameld zijn, wat betekent dat dezelfde gegevens niet hergebruikt mogen worden voor een ander doel. Voor de use case kamervragen is de data verzameld om concept antwoorden te kunnen genereren voor toekomstige kamervragen, en de data zal ook enkel voor dit doel gebruikt worden. 
@@ -27,7 +27,7 @@ Als organisaties persoonsgegevens verwerken, moeten ze daarbij uitgaan van het p
 
 
 ## Bronnen:
-L_2016119NL.01000101.xml 
-Kamervragen | Tweede Kamer der Staten-Generaal
-AVG | Algemene Verordening Gegevensbescherming - Your Europe
-De AVG in het kort | Autoriteit Persoonsgegevens
+[Algemene verordening gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e1369-1-1)
+[Kamervragen | Tweede Kamer der Staten-Generaal](https://www.tweedekamer.nl/kamerstukken/kamervragen)
+[AVG | Algemene Verordening Gegevensbescherming - Your Europe](https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/index_nl.htm#inline-nav-2)
+[De AVG in het kort | Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/de-avg-in-het-kort)
