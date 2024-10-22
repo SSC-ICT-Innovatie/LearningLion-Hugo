@@ -270,7 +270,7 @@ Hoog
 </div>
 </div>
 
-## Versie 03 (19-09-2024)
+## Versie 0.3 (19-09-2024)
 
 <div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
@@ -402,7 +402,7 @@ Hoog
 </div>
 </div>
 
-## Versie 02 (18-09-2024)
+## Versie 0.2 (18-09-2024)
 
 <div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
@@ -536,7 +536,7 @@ Hoog
 </div>
 </div>
 
-## Versie 01 (11-09-2024)
+## Versie 0.1 (11-09-2024)
 
 <div style="display: flex; gap: 20px;">
 <div style="flex: 1;">
