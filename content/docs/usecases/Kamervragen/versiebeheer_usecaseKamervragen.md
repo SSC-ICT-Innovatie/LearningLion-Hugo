@@ -49,9 +49,11 @@ Preconditions
 </div>
 <div style="flex: 2;">
 Het systeem bevat (neartime) open data vanuit de kamerstukken De <a href="https://opendata.tweedekamer.nl/">Open data van de Tweede Kamer</a>
+
 - Enkel Kamervragen van 01-01-2024 tot 01-07-2024 worden gebruikt voor deze use case, nog specifieker de 50 recentste vanaf 30-07-2024.
 - Alleen Kamervragen die door DGPenV worden beantwoord.
 - De knowledge base is gevuld met data vanaf 2010.  
+
 </div>
 </div>
 
