@@ -186,6 +186,7 @@ Preconditions
 </div>
 <div style="flex: 2;">
 Het systeem bevat (neartime) open data vanuit de kamerstukken uit de <a href="https://opendata.tweedekamer.nl/">Open data van de Tweede Kamer</a>.
+
 - Enkel Kamervragen van 01-01-2024 tot 01-07-2024 worden gebruikt voor deze use case, nog specifieker de 50 recentste vanaf 30-07-2024.
 </div>
 </div>
@@ -451,8 +452,8 @@ Preconditions
 </div>
 <div style="flex: 2;">
 Het systeem bevat (neartime) open data vanuit de:
-  - Kamerstukken (De <a href="https://opendata.tweedekamer.nl/">Open data van de Tweede Kamer</a>).
-  - Knipselkrant (JenV)
+- Kamerstukken (De <a href="https://opendata.tweedekamer.nl/">Open data van de Tweede Kamer</a>).
+- Knipselkrant (JenV)
 </div>
 </div>
 
@@ -585,8 +586,10 @@ Preconditions
 </div>
 <div style="flex: 2;">
 Het systeem bevat (neartime) open data vanuit de:
-  - Kamerstukken (De <a href="https://opendata.tweedekamer.nl/">Open data van de Tweede Kamer</a>)
-  - Knipselkrant (JenV)
+
+- Kamerstukken (De <a href="https://opendata.tweedekamer.nl/">Open data van de Tweede Kamer</a>)
+- Knipselkrant (JenV)
+
 </div>
 </div>
 
