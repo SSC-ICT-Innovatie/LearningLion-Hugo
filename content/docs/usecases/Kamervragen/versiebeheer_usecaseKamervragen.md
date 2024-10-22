@@ -1,5 +1,5 @@
 ---
-title: "Updates use case Kamervragen"
+title: "Versiebeheer use case Kamervragen"
 ---
 
 ## Versie 0.5 (17-10-2024)
