@@ -4,7 +4,7 @@ title: "Algemene verordening gegevensbescherming (AVG)"
 ---
 # De Algemene verordening gegevensbescherming (AVG) 
 
-Sinds 25 mei 2018 is de AVG van toepassing in de hele Europese Unie. De wet schrijft richtlijnen voor omtrent het gebruik van persoonsgegevens, en geldt voor iedereen die dit soort gegevens verwerkt. Dit zijn niet alleen grote bedrijven, maar ook kleine ondernemers, organisaties, individuele personen, en natuurlijk ook de overheid. De enige uitzondering hierop zijn de politie en justitie, waarvoor een apart wettelijk kader geldt. 
+Sinds 25 mei 2018 is de AVG van toepassing in de hele Europese Unie. De wet schrijft richtlijnen voor omtrent het gebruik van persoonsgegevens, en geldt voor iedereen die dit soort gegevens verwerkt. Dit zijn niet alleen grote bedrijven, maar ook kleine ondernemers, organisaties, individuele personen, en natuurlijk ook de overheid. De enige uitzonderingen hierop zijn de politie en justitie, waarvoor een apart wettelijk kader geldt. 
 
 ## Persoonsgegevens
 Soms is het moeilijk in te schatten of data wel of geen persoonsgegevens bevat. De AVG definieert persoonsgegevens als volgt: ‘alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon („de betrokkene”); als identificeerbaar wordt beschouwd een natuurlijke persoon die direct of indirect kan worden geïdentificeerd, met name aan de hand van een identificator zoals een naam, een identificatienummer, locatiegegevens, een online identificator of van een of meer elementen die kenmerkend zijn voor de fysieke, fysiologische, genetische, psychische, economische, culturele of sociale identiteit van die natuurlijke persoon.’ (AVG, artikel 4.1) Simpel gezegd vallen de volgende gegevens hieronder: 
