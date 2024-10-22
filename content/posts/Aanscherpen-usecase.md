@@ -9,7 +9,7 @@ weight: 10
 Vanuit het bestuursdepartement van DGPenV (Directoraat-Generaal Politie en Veiligheidsregio’s), wat valt onder het ministerie van Justitie en Veiligheid (JenV), hebben wij een use case gekregen voor het beantwoorden van Kamervragen. 
 Deze use case is meerdere malen aangescherpt. 
 
-De [eerste versie](({{%ref "versiebeheer_usecaseKamervragen.md" %}})) dateert van september 2024. Deze versie hebben wij onder andere na een gesprek met beleidsmedewerkers van DGPenV aangescherpt. 
+De [eerste versie]({{%ref "versiebeheer_usecaseKamervragen.md" %}}) dateert van september 2024. Deze versie hebben wij onder andere na een gesprek met beleidsmedewerkers van DGPenV aangescherpt. 
 Het gesprek had als doel om het proces van de beantwoording van Kamervragen helder te krijgen en te begrijpen waar in het proces de tool eventueel gebruikt gaat worden.
 
 Uit dit gesprek kwam naar voren dat momenteel het grootste pijnpunt vooral de tijdrovende manier van zoeken van de juiste bronnen om een Kamervraag te beantwoorden is. Het zoeken in de beschikbare databases gaat nu traag en niet alle relevante informatie wordt gevonden. 
