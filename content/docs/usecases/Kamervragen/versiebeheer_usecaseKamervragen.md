@@ -48,7 +48,7 @@ LearningLion (Opensource genAI on-premise oplossing ontwikkeld door SSC-ICT)
 Preconditions
 </div>
 <div style="flex: 2;">
-Het systeem bevat (neartime) open data vanuit de kamerstukken De <a href="https://opendata.tweedekamer.nl/">Open data van de Tweede Kamer</a>
+Het systeem bevat (neartime) open data vanuit de kamerstukken uit de <a href="https://opendata.tweedekamer.nl/">Open data van de Tweede Kamer</a>.
 
 - Enkel Kamervragen van 01-01-2024 tot 01-07-2024 worden gebruikt voor deze use case, nog specifieker de 50 recentste vanaf 30-07-2024.
 - Alleen Kamervragen die door DGPenV worden beantwoord.
@@ -185,7 +185,7 @@ LearningLion (Opensource genAI on-premise oplossing ontwikkeld door SSC-ICT)
 Preconditions
 </div>
 <div style="flex: 2;">
-Het systeem bevat (neartime) open data vanuit de kamerstukken (De [open data van de Tweede Kamer](https://opendata.tweedekamer.nl/))
+Het systeem bevat (neartime) open data vanuit de kamerstukken uit de <a href="https://opendata.tweedekamer.nl/">Open data van de Tweede Kamer</a>.
 - Enkel Kamervragen van 01-01-2024 tot 01-07-2024 worden gebruikt voor deze use case, nog specifieker de 50 recentste vanaf 30-07-2024.
 </div>
 </div>
@@ -318,7 +318,7 @@ LearningLion (Opensource genAI on-premise oplossing ontwikkeld door SSC-ICT)
 Preconditions
 </div>
 <div style="flex: 2;">
-Het systeem bevat (neartime) open data vanuit de kamerstukken (De [open data van de Tweede Kamer](https://opendata.tweedekamer.nl/))
+Het systeem bevat (neartime) open data vanuit de kamerstukken uit de <a href="https://opendata.tweedekamer.nl/">Open data van de Tweede Kamer</a>.
 </div>
 </div>
 
@@ -451,7 +451,7 @@ Preconditions
 </div>
 <div style="flex: 2;">
 Het systeem bevat (neartime) open data vanuit de:
-  - Kamerstukken (De [open data van de Tweede Kamer](https://opendata.tweedekamer.nl/))
+  - Kamerstukken (De <a href="https://opendata.tweedekamer.nl/">Open data van de Tweede Kamer</a>).
   - Knipselkrant (JenV)
 </div>
 </div>
@@ -585,7 +585,7 @@ Preconditions
 </div>
 <div style="flex: 2;">
 Het systeem bevat (neartime) open data vanuit de:
-  - Kamerstukken (De [open data van de Tweede Kamer](https://opendata.tweedekamer.nl/))
+  - Kamerstukken (De <a href="https://opendata.tweedekamer.nl/">Open data van de Tweede Kamer</a>)
   - Knipselkrant (JenV)
 </div>
 </div>
