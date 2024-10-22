@@ -26,8 +26,11 @@ Organisaties mogen persoonsgegevens alleen verzamelen met een gerechtvaardigd do
 Als organisaties persoonsgegevens verwerken, moeten ze daarbij uitgaan van het principe ‘zo min mogelijk’, wat inhoudt dat er niet meer gegevens verwerkt mogen worden dan noodzakelijk is om het doel te bereiken. Onze data bevat enkel de namen van degene die de vraag stelt, en eventueel namen waarnaar verwezen wordt in de vraag of het antwoord. Deze zijn beide nodig om de context van de vraag en het antwoord te begrijpen. Naast deze namen wordt geen enkele andere vorm van persoonsgegevens verwerkt. 
 
 
-## Bronnen:
+## Referenties:
 [Algemene verordening gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679#d1e1369-1-1)
+
 [Kamervragen | Tweede Kamer der Staten-Generaal](https://www.tweedekamer.nl/kamerstukken/kamervragen)
+
 [AVG | Algemene Verordening Gegevensbescherming - Your Europe](https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/index_nl.htm#inline-nav-2)
+
 [De AVG in het kort | Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/de-avg-in-het-kort)
