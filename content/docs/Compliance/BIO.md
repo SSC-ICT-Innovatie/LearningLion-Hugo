@@ -1,4 +1,4 @@
 ---
 bookFlatSection: true
-title: "Baseline Informatiebeveiliging Overheid (BIO)"
+title: "Baseline Informatiebeveiliging Overheid (BIO)" 
 ---
