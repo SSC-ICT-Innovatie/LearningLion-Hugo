@@ -32,13 +32,64 @@ Met betrekking tot de use case zijn hier nog een aantal bewegende delen. Zo is e
 De manier hoe de huidige pipeline eruit ziet, vormt een basis voor Sprint 2:
 
 <div style="display: flex; gap: 20px;">
+  <div style="flex: 1;"> 
+  Gebruikt embeddingsmodel
+  </div>
+  <div style="flex: 1;">
+  [allnli-GroNLP-bert-base-dutch-cased](https://huggingface.co/textgain/allnli-GroNLP-bert-base-dutch-cased)
+  </div>
+  </div>
 
-<div style="flex: 1;"> 
-Embeddingsmodel
-</div>
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;"> 
+  Gebruikte LMM
+  </div>
+  <div style="flex: 1;">
+  [fietje-2-instruct](https://huggingface.co/BramVanroy/fietje-2-instruct)
+  </div>
+  </div>
 
-<div style="flex: 1;">
-[allnli-GroNLP-bert-base-dutch-cased]([https://huggingface.co/jinaai/jina-embeddings-v3](https://huggingface.co/textgain/allnli-GroNLP-bert-base-dutch-cased))
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;"> 
+  Gebruikte Chunker
 
-</div>
-</div>
+  Chunksize
+
+  Overlap
+  </div>
+  <div style="flex: 1;">
+  RecursiveCharacterTextSplitter
+
+  100
+
+  20
+  </div>
+  </div>
+
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;"> 
+  Gebruikte Retriever
+  </div>
+  <div style="flex: 1;">
+  EnsembleRetriever (BM25 from langchain + Chroma as retriever) 50/50
+  </div>
+  </div>
+
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;"> 
+  Similarity
+  </div>
+  <div style="flex: 1;">
+  ‘Similarity search’ (default chroma.as_retriever (waarsch. L2 Euclidean))
+  </div>
+  </div>
+
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;"> 
+  Ingestion
+  </div>
+  <div style="flex: 1;">
+  Batch size = 50 for adding to vectorstore
+  </div>
+  </div>
+
