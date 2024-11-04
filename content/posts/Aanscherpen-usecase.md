@@ -1,5 +1,6 @@
 ---
-author: Lara Mutsaers
+authors: 
+  - Martha Romkes
 date: 2024-10-22
 linktitle: Observaties aanscherpen van de use case Kamervragen
 title: Observaties aanscherpen van de use case Kamervragen
