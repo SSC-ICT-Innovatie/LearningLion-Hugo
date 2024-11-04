@@ -1,7 +1,7 @@
 ---
 author: Daan Wijnhorst
 date: 2024-11-04
-linktitle: Sprint 1
+linktitle: Technische sprint 1
 title: De uiktomsten van de eerste sprint
 weight: 10
 ---
@@ -28,7 +28,7 @@ Met betrekking tot de use case zijn hier nog een aantal bewegende delen. Zo is e
 - De links naar de oorspronkelijke documenten waar de retrieved documenten uit komen werken nog niet. Dit verdient aandacht voor in sprint 2. Er zijn twee opties om dit op te lossen: direct redirecten naar files uit API / Tweedekamer.nl, of de documenten zelf in een eigen database hosten.
 - Het is onduidelijk hoe feitelijk de LLM genereert en hoe relevant de bronnen die nu naar boven komen daadwerkelijk zijn. Er moeten hiervoor performance metrics worden opgesteld en een test set worden vastgesteld.
 
-# Hoe ziet de huidige pipeline eruit
+# Hoe ziet de huidige pipeline eruit?
 De manier hoe de huidige pipeline eruit ziet, vormt een basis voor Sprint 2:
 
 <div style="display: flex; gap: 20px;">
@@ -56,16 +56,12 @@ De manier hoe de huidige pipeline eruit ziet, vormt een basis voor Sprint 2:
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;"> 
   Gebruikte Chunker
-
   Chunksize
-
   Overlap
   </div>
   <div style="flex: 1;">
   RecursiveCharacterTextSplitter
-
   100
-
   20
   </div>
   </div>
@@ -157,4 +153,15 @@ De manier hoe de huidige pipeline eruit ziet, vormt een basis voor Sprint 2:
   Via het middleware platform UbiOps, tijdelijk in hun SaaS dienst zolang er nog geen server on prem de lucht in kan. Zo kunnen we simpel en effectief alvast een kijkje krijgen in de keuken van UbiOps.
   </div>
   </div>
+
+# Focuspunten voor Sprint 2.1
+
+- Grote onderzoeksvraag: hoe kunnen we makkelijk migreren naar onze eigen hardware?
+- Hyperlinks toevoegen aan bronnen in de bronvermelding. Zo kan je makkelijk inzien of iets semantisch relevant is aan de query.
+- Clean up van de code; deze is wat vervuild doordat er gemigreerd is naar het Ubi-Ops platform
+- Preprocessing van de Kamervragen (bronnen) verbeteren. Deze ook nog aanpassen op de criteria van DPGenV.
+- Modulariseren van de database
+- Chathistory samenvatten
+- Retrieverensemble optimaliseren: hoe wordt er gezocht, wat is het meest kansrijk?
+- Intern testomgevingkje bouwen. Als we 'in productie' gaan, hoe houden we inzicht in wat waar gebeurd?
 
