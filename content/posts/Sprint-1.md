@@ -36,7 +36,7 @@ De manier hoe de huidige pipeline eruit ziet, vormt een basis voor Sprint 2:
   Gebruikt embeddingsmodel
   </div>
   <div style="flex: 1;">
-  [allnli-GroNLP-bert-base-dutch-cased](https://huggingface.co/textgain/allnli-GroNLP-bert-base-dutch-cased)
+    <a href="https://huggingface.co/textgain/allnli-GroNLP-bert-base-dutch-cased">allnli-GroNLP-bert-base-dutch-cased</a>
   </div>
   </div>
 
@@ -45,7 +45,7 @@ De manier hoe de huidige pipeline eruit ziet, vormt een basis voor Sprint 2:
   Gebruikte LMM
   </div>
   <div style="flex: 1;">
-  [fietje-2-instruct](https://huggingface.co/BramVanroy/fietje-2-instruct)
+    <a href="https://huggingface.co/BramVanroy/fietje-2-instruct">fietje-2-instruct</a>.
   </div>
   </div>
 
