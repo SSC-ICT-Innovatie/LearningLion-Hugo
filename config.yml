@@ -8,5 +8,7 @@ markup:
     renderer:
       unsafe: true
 
+taxonomies:
+  author = "authors"
     
 
