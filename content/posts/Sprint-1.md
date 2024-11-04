@@ -56,12 +56,16 @@ De manier hoe de huidige pipeline eruit ziet, vormt een basis voor Sprint 2:
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;"> 
   Gebruikte Chunker
+    
   Chunksize
+  
   Overlap
   </div>
   <div style="flex: 1;">
   RecursiveCharacterTextSplitter
+    
   100
+  
   20
   </div>
   </div>
@@ -136,7 +140,7 @@ De manier hoe de huidige pipeline eruit ziet, vormt een basis voor Sprint 2:
 
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;"> 
-  Algemene beschrijving van de user interface.
+  Algemene beschrijving van de user interface
   </div>
   <div style="flex: 1;">
   De user interface is een simpele chatbot interface waar de beantwoorder is aangegeven als Learning Lion (GenAI), welke antwoord geeft op de user input. Het is duidelijk gemaakt dat de gebruiker met een AI-systeem communiceert met een antwoord in de vorm van: "Learning Lion (genAI): Here is the information you requested". Er is in de user interface nog niet ingebouwd dat de gebruiker zich bewust is van diens menselijk toezicht op de antwoorden van het AI-systeem. Ook is er nog niet echt rekening gehouden met toegankelijkheid. De applicatie is eenvoudig te gebruiken, doordat er met een simpele interface wordt gewerkt à la de bekende chatbots, wordt er ingespeeld op patronen die gebruikers uit deze applicaties kennen. Onder het gegenereerde antwoord wordt een bronnenlijst weergegeven op basis van welke antwoorden het AI-systeem het antwoord heeft gebaseerd. 
