@@ -96,7 +96,7 @@ Postconditions
 Triggers
 </div>
 <div style="flex: 2;">
-- rimaire actor typt -de Kamervraag (query)- in het systeem en drukt op ENTER. Zie het kopje beschrijving voor specificering van de query.
+- Primaire actor typt -de Kamervraag (query)- in het systeem en drukt op ENTER. Zie het kopje beschrijving voor specificering van de query.
 We testen met een serie van 50 Kamervragen, verdeeld in drie batches van respectievelijk 20, 15 en 15 Kamervragen. Deze 50 Kamervragen komen uit begin 2024.
 - Primaire actor cureert opgehaalde Kamervragen met beantwoording, opgehaald door de retriever, en voegt eventuele extra relevante informatie toe en drukt op ENTER.
 </div>
