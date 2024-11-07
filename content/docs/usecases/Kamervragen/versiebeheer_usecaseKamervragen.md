@@ -2,6 +2,169 @@
 title: "Versiebeheer use case Kamervragen"
 ---
 
+## Versie 0.7 (06-11-2024)
+
+Het doen van tekstvoorstellen voor het beantwoorden van schriftelijke Kamervragen
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+Beschrijving
+</div>
+<div style="flex: 2;">
+Het AI-systeem ondersteunt bij het opstellen van antwoorden op Kamervragen, wat de efficiëntie van het werk kan bevorderen. 
+
+<strong>Retrieval</strong>
+Op basis van de query (gehele Kamervraag plus eventuele extra relevante informatie (bijvoorbeeld de titel, een beschrijving van, of keywords uit een bijbehorend nieuwsartikel)) van de gebruiker doorzoekt het AI-systeem de schriftelijke Kamervragen (met beantwoording). Het AI-systeem geeft op basis van de query relevante stukken tekst uit de schriftelijke Kamervragen (met beantwoording) terug. 
+
+<strong>Tussenstap</strong>
+De primaire actor (gebruiker) beslist welke brondocumenten er wel en niet worden meegegeven in de generation-stap. De gebruiker heeft in deze stap opnieuw de mogelijkheid om zelf extra relevante informatie toevoegen die ook meegenomen moet worden bij het genereren van het antwoord. 
+
+<strong>Generation</strong>
+Op basis van de brondocumenten van de opgehaalde (retrieved) relevante stukken tekst uit de schriftelijke Kamervragen (met beantwoording) plus eventuele extra toegevoegde eigen bronnen (zoals nieuwsartikelen of sentiment) wordt een tekstvoorstel gegenereerd voor het beantwoorden van de query.
+N.B. De aanvullende eigen bronnen/informatie mogen uitsluitend aan het taalmodel worden verstrekt indien dit juridisch is toegestaan.
+
+Voor deze PoC willen we in de query alleen Kamervragen gebruiken waar één bewindspersoon van JenV beantwoorder is (eenvoudigste situatie) en verder gebruiken we alleen Kamervragen waar een van de bewindslieden van DPGenV de primaire beantwoorder is.
+
+AI ondersteunt bij het opstellen van antwoorden op Kamervragen, wat de efficiëntie van het werk kan bevorderen. AI doorzoekt een database met kamerstukken (en nieuwsberichten) om relevante documenten te verzamelen, en genereert een concept antwoord gebaseerd op deze relevante documenten. Het concept antwoord van de Kamervraag kan de stafmedewerker gebruiken als voorwerk voor de dossierhouder die de Kamervraag daadwerkelijk beantwoordt.  
+</div>
+</div>
+
+<br />
+
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+Primary Actor
+</div>
+<div style="flex: 2;">
+Parlementair staff medewerker  
+</div>
+</div>
+
+<br />
+
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+Secondary Actor(s)
+</div>
+<div style="flex: 2;">
+<strong>Secondary Actor 1 (Scenario 1):</strong>
+LearningLion (Opensource genAI on-premise oplossing ontwikkeld door SSC-ICT)
+
+<strong>Secondary Actor 2 (Scenario 2):</strong>
+Azure OpenAI (GenAI oplossing op Azure met AOAI service – data staat in Azure: SSC-ICT faciliteert het Azure platform voor o.a. de AOAI diensten en geeft ontwikkelaars van Microsoft of partner daar toegang toe)
+
+<strong>Secondary Actor 3 (Scenario 3):</strong>
+Codi (De virtuele beleidsassistent van Joinseven:  Kamervragen snel beantwoorden | Bespaar tijd en moeite met Codi (joinseven.nl)). Ontstaan vanuit een ministerie-overstijgende pilot samen met de directies van Financiën, EZK, VWS, Belastingdienst, RVO en Douane.   
+</div>
+</div>
+
+<br />
+
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+Preconditions
+</div>
+<div style="flex: 2;">
+De retriever put uit:
+
+Kamerstukken (De open data van de Tweede Kamer | Open Data Portaal / Kamerstukdossier | <a href="https://opendata.tweedekamer.nl/">Open data van de Tweede Kamer</a>.)
+- De Kamervragen met beantwoording  van alle ministeries en departementen.
+- Alleen Kamervragen met beantwoording tot en met eind 2023. Drie opties voor tijdsscope:
+- - Vanaf 2010
+- - Vanaf 2018
+- - Vanaf 2021
+</div>
+</div>
+
+<br />
+
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+Postconditions
+</div>
+<div style="flex: 2;">
+1.	De opgehaalde relevante (sub)Kamervragen met beantwoording uit de retriever zijn zichtbaar inclusief de gehele brondocumenten.
+2.	Gebruiker beslist welke brondocumenten er wel en niet worden meegegeven in de generatorstap. De gebruiker kan in deze stap zelf extra relevante informatie toevoegen. 
+3.	Het gegenereerde antwoord is zichtbaar, inclusief referenties naar de brondocumenten waarop het antwoord is gebaseerd. De historie van ingevoerde queries en daarbij behorende gegenereerde antwoorden blijven zichtbaar voor de gebruiker, en worden opgeslagen.
+
+</div>
+</div>
+
+<br />
+
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+Triggers
+</div>
+<div style="flex: 2;">
+1.	Primaire actor typt -de Kamervraag (query)- in het systeem en drukt op ENTER. Zie het kopje beschrijving voor specificering van de query.
+We testen met een serie van 50 Kamervragen, verdeeld in drie batches van respectievelijk 20, 15 en 15 Kamervragen. Deze 50 Kamervragen komen uit begin 2024.
+2.	Primaire actor cureert opgehaalde Kamervragen met beantwoording, opgehaald door de retriever, en voegt eventuele extra relevante informatie toe en drukt op ENTER.
+</div>
+</div>
+
+<br />
+
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+Main Succes Scenario
+</div>
+<div style="flex: 2;">
+De applicatie ondersteunt bij het opstellen van antwoorden op schriftelijke Kamervragen. Daarbij is alleen informatie gebruikt die uit de brondocumenten van de relevante stukken tekst te herleiden is en eventueel relevante informatie dat is toegevoegd door de gebruiker. Deze brondocumenten zijn herleidbaar in de vorm van referenties. 
+
+Vereisten uitkomst tekstvoorstel:
+- Gemiddeld 50-250 aantal woorden (per subvraag);
+- Als er geen (of te weinig) relevante stukken tekst zijn gevonden, wordt door het systeem aangegeven dat het systeem het antwoord niet ‘weet’. 
+
+Nice to have:
+- Het antwoord is in dezelfde toon als die van de eerder beantwoorde Kamervragen van dezelfde bewindspersoon;
+
+</div>
+</div>
+
+<br />
+
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+Extensions
+</div>
+<div style="flex: 2;">
+Eén van de beide onderdelen van deze use case werkt naar verwachting. De retriever OF de generator (eventueel zou dit kunnen leiden tot koppeling van artefacten van verschillende actoren).
+</div>
+</div>
+
+<br />
+
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+Frequency of Use
+</div>
+<div style="flex: 2;">
+DG-breed ca. 100 keer per jaar. (Dit is een zeer lage schatting, aangezien er dagelijks tientallen kamervragen gesteld worden. Het daadwerkelijke gebruik zal afhangen van JenV).  
+</div>
+</div>
+
+<br />
+
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+Owner
+</div>
+<div style="flex: 2;">
+Ministerie van Justitie en Veiligheid, Dienstencentrum.  
+</div>
+</div>
+
+<br />
+
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1;">
+Priority
+</div>
+<div style="flex: 2;">
+Hoog  
+</div>
+</div>
+
 ## Versie 0.5 (17-10-2024)
 
 <div style="display: flex; gap: 20px;">
