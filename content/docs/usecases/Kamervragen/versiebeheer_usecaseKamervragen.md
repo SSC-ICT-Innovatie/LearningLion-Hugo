@@ -69,9 +69,9 @@ De retriever put uit:
 Kamerstukken (De open data van de Tweede Kamer | Open Data Portaal / Kamerstukdossier | <a href="https://opendata.tweedekamer.nl/">Open data van de Tweede Kamer</a>.)
 - De Kamervragen met beantwoording  van alle ministeries en departementen.
 - Alleen Kamervragen met beantwoording tot en met eind 2023. Drie opties voor tijdsscope:
-- - Vanaf 2010
-- - Vanaf 2018
-- - Vanaf 2021
+  - Vanaf 2010
+  - Vanaf 2018
+  - Vanaf 2021
 </div>
 </div>
 
@@ -82,9 +82,9 @@ Kamerstukken (De open data van de Tweede Kamer | Open Data Portaal / Kamerstukdo
 Postconditions
 </div>
 <div style="flex: 2;">
-1.	De opgehaalde relevante (sub)Kamervragen met beantwoording uit de retriever zijn zichtbaar inclusief de gehele brondocumenten.
-2.	Gebruiker beslist welke brondocumenten er wel en niet worden meegegeven in de generatorstap. De gebruiker kan in deze stap zelf extra relevante informatie toevoegen. 
-3.	Het gegenereerde antwoord is zichtbaar, inclusief referenties naar de brondocumenten waarop het antwoord is gebaseerd. De historie van ingevoerde queries en daarbij behorende gegenereerde antwoorden blijven zichtbaar voor de gebruiker, en worden opgeslagen.
+1. De opgehaalde relevante (sub)Kamervragen met beantwoording uit de retriever zijn zichtbaar inclusief de gehele brondocumenten.
+2. Gebruiker beslist welke brondocumenten er wel en niet worden meegegeven in de generatorstap. De gebruiker kan in deze stap zelf extra relevante informatie toevoegen. 
+3. Het gegenereerde antwoord is zichtbaar, inclusief referenties naar de brondocumenten waarop het antwoord is gebaseerd. De historie van ingevoerde queries en daarbij behorende gegenereerde antwoorden blijven zichtbaar voor de gebruiker, en worden opgeslagen.
 
 </div>
 </div>
@@ -96,9 +96,9 @@ Postconditions
 Triggers
 </div>
 <div style="flex: 2;">
-1.	Primaire actor typt -de Kamervraag (query)- in het systeem en drukt op ENTER. Zie het kopje beschrijving voor specificering van de query.
+1. Primaire actor typt -de Kamervraag (query)- in het systeem en drukt op ENTER. Zie het kopje beschrijving voor specificering van de query.
 We testen met een serie van 50 Kamervragen, verdeeld in drie batches van respectievelijk 20, 15 en 15 Kamervragen. Deze 50 Kamervragen komen uit begin 2024.
-2.	Primaire actor cureert opgehaalde Kamervragen met beantwoording, opgehaald door de retriever, en voegt eventuele extra relevante informatie toe en drukt op ENTER.
+1. Primaire actor cureert opgehaalde Kamervragen met beantwoording, opgehaald door de retriever, en voegt eventuele extra relevante informatie toe en drukt op ENTER.
 </div>
 </div>
 
