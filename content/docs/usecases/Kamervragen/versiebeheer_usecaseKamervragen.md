@@ -85,7 +85,6 @@ Postconditions
 - De opgehaalde relevante (sub)Kamervragen met beantwoording uit de retriever zijn zichtbaar inclusief de gehele brondocumenten.
 - Gebruiker beslist welke brondocumenten er wel en niet worden meegegeven in de generatorstap. De gebruiker kan in deze stap zelf extra relevante informatie toevoegen. 
 - Het gegenereerde antwoord is zichtbaar, inclusief referenties naar de brondocumenten waarop het antwoord is gebaseerd. De historie van ingevoerde queries en daarbij behorende gegenereerde antwoorden blijven zichtbaar voor de gebruiker, en worden opgeslagen.
-
 </div>
 </div>
 
