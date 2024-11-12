@@ -4,6 +4,12 @@ date: 2024-10-10
 linktitle: Overheidsbrede visie Generatieve AI
 title: Overheidbrede visie Generatieve AI
 weight: 10
+tags: [
+    "visie",
+    "verantwoorde AI",
+    "kennis over AI",
+    "wetgeving"
+]
 ---
 
 SSC-ICT is een van de grootste dienstverleners voor de overheid. Het is daarom logisch voor SSC-ICT om onderzoek te doen naar een mogelijke dienstverlening op het gebied van generatieve AI aan de hand van initiatieven zoals LearningLion. Maar wat voor visie heeft de overheid zelf eigenlijk op het gebied van generatieve AI?
