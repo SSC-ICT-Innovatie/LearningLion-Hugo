@@ -7,7 +7,7 @@ weight: 10
 tags: [
     "development",
     "RAG-pipeline",
-    "use case Kamervragen", 
+    "use case Kamervragen",
 ]
 ---
 
