@@ -5,10 +5,9 @@ linktitle: Update Use Case Kamervragen
 title: Update Use Case Kamervragen
 weight: 10
 tags: [
-    "use-case",
     "proces",
     "kennis over AI",
-    "Kamervragen",
+    "use case Kamervragen",
     "Datascope",
     "Menselijk overzicht",
 ]
