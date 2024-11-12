@@ -4,6 +4,14 @@ date: 2024-11-12
 linktitle: Update Use Case Kamervragen
 title: Update Use Case Kamervragen
 weight: 10
+tags: [
+    "use-case",
+    "proces",
+    "kennis over AI",
+    "Kamervragen",
+    "Datascope",
+    "Menselijk overzicht",
+]
 ---
 
 Vorige week hebben we gezamenlijk met de collega’s van DPGenV (Directoraat-Generaal Politie en Veiligheidsregio’s) de use case vastgesteld. Dit was noodzakelijk, omdat de databehoefte nog niet helemaal duidelijk was. Dit heeft implicaties voor de technische doorontwikkeling van de tool. Er zijn een aantal belangrijke beslissingen gemaakt:
