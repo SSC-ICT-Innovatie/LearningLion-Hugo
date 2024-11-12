@@ -4,6 +4,10 @@ date: 2024-10-02
 linktitle: De resultaten van de eerste experimenten
 title: De resultaten van de eerste experimenten
 weight: 10
+tags: [
+    "use case Kamervragen",
+    "development",
+]
 ---
 
 De resultaten van de eerste micro-experimenten zijn een verkenning van de parameters en geen shoot-out van de verschillende modellen in absolute zin. 
