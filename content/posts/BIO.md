@@ -4,6 +4,11 @@ date: 2024-11-04
 linktitle: Baseline Informatiebeveiliging Overheid (BIO)
 title: Baseline Informatiebeveiliging Overheid (BIO)
 weight: 10
+tags: [
+    "compliance",
+    "risico-analyse",
+    "informatiebeveiliging",
+]
 ---
 
 De Baseline Informatiebeveiliging Overheid (BIO) is het normenkader voor informatiebeveiliging binnen de Nederlandse overheid. Het is gebaseerd op internationale standaarden zoals de ISO 27001 en 27002 en biedt een gemeenschappelijke aanpak om de vertrouwelijkheid, integriteit en beschikbaarheid van informatie te waarborgen. Alle overheidsinstellingen in Nederland zijn verplicht de BIO te volgen, wat zorgt voor een uniforme en consistente aanpak van informatiebeveiliging.
