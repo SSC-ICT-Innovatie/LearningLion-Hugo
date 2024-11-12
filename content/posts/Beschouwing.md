@@ -4,6 +4,11 @@ date: 2024-10-01
 linktitle: Een beschouwing op de eerste experimenten
 title: Een beschouwing op de eerste experimenten
 weight: 10
+tags: [
+    "development",
+    "RAG-pipeline",
+    "Kamervragen",
+]
 ---
 
 Binnen het project LearningLion werken we aan een use case voor de beantwoording van Kamervragen. Hiervoor wordt een eerder ontwikkelde RAG-pipeline doorontwikkeld. Uit eerdere documentatie hierover wordt niet meteen duidelijk waarom enkele parameters en modellen zijn gekozen in de pipeline tot nu toe. Vaak zitten er logische heuristieken achter en soms lijkt door anekdotisch experimenten besloten om voor sommige numerieke parameters te gaan. We willen steeds meer richting het op basis van experimenten kiezen voor de belangrijkste parameters in de RAG-pipeline en bijbehorende methodes om deze resultaten te vergelijken, zodat ons proces transparanter en reproduceerbaar  is.
