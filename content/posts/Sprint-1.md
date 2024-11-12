@@ -4,6 +4,11 @@ date: 2024-11-04
 linktitle: Technische sprint 1
 title: De uiktomsten van de eerste sprint
 weight: 10
+tags: [
+    "development",
+    "RAG-pipeline",
+    "Kamervragen",
+]
 ---
 
 # Aanleiding
