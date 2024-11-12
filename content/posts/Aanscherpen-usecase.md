@@ -7,7 +7,8 @@ weight: 10
 tags: [
     "use-case",
     "proces",
-    "kennis",
+    "kennis over AI",
+    "Kamervragen",
 ]
 ---
 
