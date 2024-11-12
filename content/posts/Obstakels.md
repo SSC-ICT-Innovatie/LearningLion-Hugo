@@ -11,7 +11,7 @@ tags: [
     "compliance",
     "documentatie",
     "AI-infrastructuur",
-    "Wetgeving",
+    "wetgeving",
 ]
 ---
 
