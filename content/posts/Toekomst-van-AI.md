@@ -4,6 +4,10 @@ date: 2024-11-04
 linktitle: De toekomst van AI binnen de overheid
 title: De toekomst van AI binnen de overheid
 weight: 10
+tags: [
+    "visie",
+    "strategie",
+]
 ---
 
 Kunstmatige intelligentie (AI) verandert in hoog tempo de manier waarop we werken. Binnen de Rijksoverheid zien we dat ambtenaren al volop experimenteren met tools zoals ChatGPT, vaak via hun privé-accounts. Hoewel dit een duidelijke behoefte aan AI-ondersteuning aantoont, brengt het ook aanzienlijke risico's met zich mee. Het LearningLion-team heeft daarom een ambitieuze strategie ontwikkeld om AI op een veilige en effectieve manier binnen de Rijksoverheid te integreren.
