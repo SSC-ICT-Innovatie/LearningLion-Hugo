@@ -8,6 +8,7 @@ tags: [
     "compliance",
     "risico-analyse",
     "informatiebeveiliging",
+    "Verantwoorde AI",
 ]
 ---
 
