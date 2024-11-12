@@ -4,6 +4,11 @@ date: 2024-10-22
 linktitle: Observaties aanscherpen van de use case Kamervragen
 title: Observaties aanscherpen van de use case Kamervragen
 weight: 10
+tags = [
+    "use-case",
+    "proces",
+    "kennis",
+]
 ---
 
 Vanuit het bestuursdepartement van DGPenV (Directoraat-Generaal Politie en Veiligheidsregio’s), wat valt onder het ministerie van Justitie en Veiligheid (JenV), hebben wij een use case gekregen voor het beantwoorden van Kamervragen. 
