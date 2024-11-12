@@ -4,6 +4,9 @@ date: 2024-10-10
 linktitle: Hoe toets je verantwoorde AI?
 title: Hoe toets je verantwoorde AI?
 weight: 10
+tags: [
+    "verantwoorde AI",
+]
 ---
 
 Wat betekent verantwoorde AI eigenlijk? Voor de overheid betekent dat:
