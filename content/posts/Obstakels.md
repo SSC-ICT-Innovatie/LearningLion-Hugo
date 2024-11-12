@@ -4,6 +4,15 @@ date: 2024-11-06
 linktitle: Knelpunten bij AI-projecten binnen de Rijksoverheid
 title: Knelpunten bij AI-projecten binnen de Rijksoverheid
 weight: 10
+tags: [
+    "use-case",
+    "proces",
+    "kennis over AI",
+    "compliance",
+    "documentatie",
+    "AI-infrastructuur",
+    "Wetgeving",
+]
 ---
 
 
