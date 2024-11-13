@@ -6,6 +6,7 @@ title: Hoe toets je verantwoorde AI?
 weight: 10
 tags: [
     "verantwoorde AI",
+    "risico-analyse",
 ]
 ---
 
