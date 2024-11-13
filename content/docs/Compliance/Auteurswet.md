@@ -26,7 +26,9 @@ Dit wordt verder toegelicht in de overwegingen 106-108 van de AI act:
 
 {{< hint info >}}
 (106) | Aanbieders die AI-modellen voor algemene doeleinden in de Unie in de handel brengen, zijn gehouden de naleving van de desbetreffende verplichtingen in deze verordening te waarborgen. Zij moeten daartoe een beleid invoeren ter naleving van het Unierecht inzake auteursrechten en naburige rechten, met name om kennis te hebben van het door rechthebbenden geuite voorbehoud van rechten op grond van artikel 4, lid 3, van Richtlijn (EU) 2019/790 en dit na te leven. Aanbieders die in de Unie een AI-model voor algemene doeleinden in de handel brengen, zijn hiertoe verplicht, ongeacht de jurisdictie waarin de auteursrechtelijke relevante handelingen plaatsvinden die helpen die AI-modellen voor algemene doeleinden te trainen. Alleen op deze manier kan gezorgd worden voor een gelijk speelveld voor aanbieders van AI-modellen voor algemene doeleinden, waar geen enkele aanbieder zich een concurrentievoordeel op de Uniemarkt mag kunnen verschaffen met lagere auteursrechtelijke normen dan de in de Unie toepasselijke normen.
+
 (107) | Voor een grotere transparantie ten aanzien van de bij de pre-training en training van AI-modellen voor algemene doeleinden gebruikte data, met inbegrip van door het auteursrecht beschermde tekst en data, is het passend dat aanbieders van dergelijke modellen een voldoende gedetailleerde samenvatting maken en publiceren van de voor de training van het AI-model voor algemene doeleinden gebruikte content. [...]
+
 (108) | Wat betreft de verplichtingen [...] om aan het recht van de Unie inzake auteursrecht te voldoen [...]  moet het AI-bureau controleren of de aanbieder aan die verplichtingen voldoet, zonder evenwel geval voor geval de trainingsdata te controleren of te beoordelen qua naleving van het auteursrecht. Deze verordening doet geen afbreuk aan de handhaving van de auteursrechtregels krachtens het Unierecht.
 {{< /hint >}}
 
