@@ -1,8 +1,6 @@
 ---
 bookFlatSection: true
 title: "Auteurswet"
-Author: Martha Romkes
-Date: 13-11-2024
 ---
 
 # Generatieve AI en auteursrecht
