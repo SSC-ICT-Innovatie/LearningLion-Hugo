@@ -1,5 +1,5 @@
 ---
-author: Martha Romkes
+author: Martha Romkes 
 date: 2024-11-06
 linktitle: Knelpunten bij AI-projecten binnen de Rijksoverheid
 title: Knelpunten bij AI-projecten binnen de Rijksoverheid
