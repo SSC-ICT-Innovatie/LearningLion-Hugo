@@ -1,6 +1,7 @@
 ---
 bookFlatSection: true
 title: "Auteurswet"
+authors: Martha Romkes
 ---
 
 # Generatieve AI en auteursrecht
