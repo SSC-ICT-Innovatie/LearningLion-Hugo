@@ -7,6 +7,9 @@ titleCaseStyle = 'none'
 
 BookLogo = 'LL-logo.png'
 
+[taxonomies]
+  author = "authors"
+
 [markup]
   [markup.goldmark]  
     [markup.goldmark.renderer]
