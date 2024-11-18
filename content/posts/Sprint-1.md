@@ -1,5 +1,5 @@
 ---
-author: Daan Wijnhorst
+authors: Daan Wijnhorst
 date: 2024-11-04
 linktitle: Technische sprint 1
 title: De uiktomsten van de eerste sprint
