@@ -44,7 +44,7 @@ Om relevante en toegankelijke adviezen te bieden, worden de volgende prompts mee
 
 - Geef altijd aan waar je het antwoord vandaan heb, benoem het document uit je context
 
-## Impact en
+## Impact
 ### Korte termijn:
 Onderwijsprofessionals hebben sneller toegang tot passende hulpbronnen, wat het bewustzijn vergroot en de implementatie van preventieve maatregelen vergemakkelijkt.
 ### Lange termijn:
