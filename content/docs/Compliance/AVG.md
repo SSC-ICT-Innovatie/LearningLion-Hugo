@@ -1,6 +1,7 @@
 ---
 bookFlatSection: true
 title: "Algemene verordening gegevensbescherming (AVG)"
+autors: Martha Romkes
 ---
 # De Algemene verordening gegevensbescherming (AVG) 
 
