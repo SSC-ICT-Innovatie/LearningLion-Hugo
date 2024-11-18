@@ -1,5 +1,5 @@
 ---
-author: Daan Wijnhorst
+author: Daan Wijnhorst 
 date: 2024-10-01
 linktitle: Een beschouwing op de eerste experimenten
 title: Een beschouwing op de eerste experimenten
