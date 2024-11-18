@@ -11,14 +11,14 @@ tags: [
 ]
 ---
 
-# Aanleiding
+## Aanleiding
 Op basis van de eerste experimenten en de schoongeveegde code zijn we begonnen om toe te werken naar minimale applicatie. Dit doen we op basis van twee sprints. 
 In sprint 1 ligt de focus op het opbouwen van de pipeline en het werkend krijgen van alle onderdelen. In de tweede sprint ligt de focus op de optimalisatie van de pipeline.
 
-# Doelstelling
+## Doelstelling
 Het doel van sprint 1 was om vanuit de opgeschoonde code deployments te creëren binnen het UbiOps-platform om zo inzicht te krijgen in de bottlenecks, zodat er effectief kan worden doorontwikkelt. 
 
-# Waar staan we nu?
+## Waar staan we nu?
 Op het moment hebben we een webapp ontwikkeld. De essentiële functies zijn getransformeerd tot deployments (microservices). De eindgebruiker kan een query sturen, er worden documenten retrieved en een LLM genereert een antwoord, welke wordt teruggestuurd naar de eindgebruiker.
 
 Dit alles gebeurt binnen het UbiOps SaaS platform. Dit gebruiken we tijdelijk, aangezien het tot nu toe nog niet lukt om de eigen server met het UbiOps platform aan het open internet te hangen.
@@ -26,7 +26,7 @@ Om migratie zo soepel mogelijk te laten verlopen wanneer de server eenmaal in de
 
 Met betrekking tot de use case zijn hier nog een aantal bewegende delen. Zo is er over datascope en query nog geen akkoord.
 
-# Observaties
+## Observaties
 
 - Bij gebruik van UbiOps SaaS hebben we te maken met een cold start wanneer er wordt teruggeschaald naar 0. Voor testen en ontwikkelen is dit niet erg snel. Echter, in productie zou dit geen probleem hoeven zijn. Daardoor hebben we nog niet uitgebreid kunnen testen. Door deze cold starts is genereren een trage aangelegenheid welke aandacht verdient in de verdere ontwikkeling in sprint 2.
 - De database waaruit de retrieval-stap put is beperkt tot een aantal maanden (2024-1-1 t/m 2024-8-31).
@@ -163,7 +163,7 @@ De manier hoe de huidige pipeline eruit ziet, vormt een basis voor Sprint 2:
   </div>
   </div>
 
-# Focuspunten voor Sprint 2.1
+## Focuspunten voor Sprint 2.1
 
 - Grote onderzoeksvraag: hoe kunnen we makkelijk migreren naar onze eigen hardware?
 - Hyperlinks toevoegen aan bronnen in de bronvermelding. Zo kan je makkelijk inzien of iets semantisch relevant is aan de query.
