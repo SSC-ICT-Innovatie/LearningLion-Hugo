@@ -1,5 +1,6 @@
 ---
-authors: Admin
+authors: 
+- Admin
 date: 2024-10-10
 linktitle: Hoe toets je verantwoorde AI?
 title: Hoe toets je verantwoorde AI?
