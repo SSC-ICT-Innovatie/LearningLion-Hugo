@@ -1,5 +1,5 @@
 ---
-author: Ahmed Ezzammouri
+authors: Ahmed Ezzammouri
 date: 2024-11-04
 linktitle: Baseline Informatiebeveiliging Overheid (BIO)
 title: Baseline Informatiebeveiliging Overheid (BIO)
