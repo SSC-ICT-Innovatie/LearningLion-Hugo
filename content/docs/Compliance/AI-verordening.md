@@ -1,6 +1,7 @@
 ---
 bookFlatSection: true
 title: "AI-verordening (EU AI Act)"
+autors: Lara Mutsaers
 ---
 
 # AI-verordening (EU AI Act) en LearningLion
