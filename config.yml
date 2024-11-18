@@ -10,5 +10,6 @@ markup:
 
 taxonomies:
   author = "authors"
+  tags = "tags"
     
 
