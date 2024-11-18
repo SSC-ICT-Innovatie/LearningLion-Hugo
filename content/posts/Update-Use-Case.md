@@ -1,5 +1,5 @@
 ---
-author: Lara Mutsaers 
+authors: Lara Mutsaers 
 date: 2024-11-12
 linktitle: Update Use Case Kamervragen
 title: Update Use Case Kamervragen
