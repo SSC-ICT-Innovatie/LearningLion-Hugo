@@ -1,5 +1,5 @@
 ---
-authors: Daan Wijnhorst, Mark Heijnekamp
+authors: ["Daan Wijnhorst", "Mark Heijnekamp",]
 date: 2024-11-14
 linktitle: Terug naar de technische tekentafel
 title: Terug naar de technische tekentafel (week 46 update)
