@@ -1,6 +1,6 @@
 ---
 authors: Lara Mutsaers
-date: 2024-10-14
+date: 2024-11-14
 linktitle: Terug naar de technische tekentafel
 title: Terug naar de technische tekentafel (week 46 update)
 weight: 10
