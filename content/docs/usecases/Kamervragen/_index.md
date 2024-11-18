@@ -21,7 +21,7 @@ Learning Lion Kamervragen zal op verschillende manieren de beleidsmedewerkers on
 In het huidige zoekproces worden niet altijd alle relevante bronnen gevonden omdat zoeken in de database van eerder behandelde kamervragen nu gaat met zoektermen die precies moeten matchen. Semantisch zoeken zou dus een meerwaarde kunnen zijn, doordat dit ook zoekresultaten oplevert die ongeveer dezelfde betekenis hebben als de zoekterm (bijvoorbeeld: ‘messen’ en ‘zwaarden’). Niet alleen worden er dus meer relevante bronnen gevonden, maar ook het zoekproces wordt hiermee versneld. 
 ### Consistentie in het beantwoorden van Kamervragen.
 Door een RAG-model, zorg je ervoor dat eerder gestelde Kamervragen of vergelijkbare vragen worden gevonden. Op deze manier kan je ervoor zorgen dat eenzelfde of een vergelijkbare vraag op dezelfde manier wordt beantwoord.
-### Een concept-antwoord genereren met bijbehorende relevante bronnen
+### Een tekstvoorstel doen met bijbehorende relevante bronnen
 Door aan het RAG-model een LLM te koppelen, kan er een concept-antwoord gegenereerd worden op basis van de gevonden bronnen. Dit geeft beleidsmedewerkers een richting in het beantwoorden van een Kamervraag. Door een bronvermelding toe te voegen heeft de beleidsmedewerker inzicht in welke bronnen er zijn gebruikt om het concept te genereren waardoor er controle kan plaatsvinden. 
 
 ## Condities (operationele omgeving)
