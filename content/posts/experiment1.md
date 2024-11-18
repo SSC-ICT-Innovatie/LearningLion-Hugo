@@ -1,5 +1,5 @@
 ---
-author: Daan Wijnhorst
+authors: Daan Wijnhorst
 date: 2024-10-02
 linktitle: De resultaten van de eerste experimenten
 title: De resultaten van de eerste experimenten
