@@ -1,5 +1,5 @@
 ---
-author: Victor Gevers
+author: Victor Gevers 
 date: 2024-11-04
 linktitle: De toekomst van AI binnen de overheid
 title: De toekomst van AI binnen de overheid
