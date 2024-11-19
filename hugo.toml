@@ -2,8 +2,9 @@ baseURL = 'https://learninglion.nl/'
 languageCode = 'en-us'
 title = 'Learning Lion'
 theme = 'hugo-book'
-disablePathToLower = true
+disablePathToLower = false
 titleCaseStyle = 'none'
+preserveTaxonomyNames: true
 
 BookLogo = 'LL-logo.png'
 
