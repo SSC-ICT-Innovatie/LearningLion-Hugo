@@ -1,1 +1,5 @@
-iama
+---
+linktitle: IAMA
+title: IAMA
+---
+IAMA
