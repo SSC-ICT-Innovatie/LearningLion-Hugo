@@ -5,7 +5,8 @@ title: "Het Algoritmeregister"
 
 # Het Algoritmeregister
 
-_In [het Algoritmeregister](https://algoritmes.overheid.nl/nl/algoritme) van de overheid publiceren Nederlandse overheidsorganisaties informatie over algoritmes die zij gebruiken in hun werk. Het register focust op impactvolle algoritmes (waaronder hoog risico AI-systemen) en geeft de bezoeker inzicht in hoe deze algoritmes werken._
+>_"In het Algoritmeregister van de overheid publiceren Nederlandse overheidsorganisaties informatie over algoritmes die zij gebruiken in hun werk. Het register focust op >impactvolle algoritmes (waaronder hoog risico AI-systemen) en geeft de bezoeker inzicht in hoe deze algoritmes werken."_
+> [Website van het Algoritmeregister](https://algoritmes.overheid.nl/nl/algoritme)
 
 Het Algoritmeregister geeft openheid over algoritmes en hun toepassing, zodat burgers, organisaties en media dit kritisch kan volgen en controleren of de wetten en regels gevolgd worden. Het helpt algoritmes vindbaar te maken, beter uit te leggen en hun toepassing en impact begrijpelijk te maken. De Algoritmetoezichthouder (de Autoriteit Persoonsgegevens) coördineert de controle op algoritmes: voldoen de algoritmes van de overheid aan alle regels die daarvoor gelden?
 
