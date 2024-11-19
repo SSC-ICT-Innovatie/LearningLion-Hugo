@@ -1,4 +1,4 @@
----
-title: Lara Mutsaers
-photo: <img src="/MutsaersLara.jpg" alt="Lara" width="200">
----
++++
+title = 'Lara Mutsaers'
+images = '/MutsaersLara.jpg'
++++
