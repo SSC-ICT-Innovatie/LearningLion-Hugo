@@ -1,5 +1,5 @@
 baseURL: 'https://learninglion.nl/'
-disablePathToLower: true
+disablePathToLower: false
 preserveTaxonomyNames: true
 titleCaseStyle: 'none'
 
