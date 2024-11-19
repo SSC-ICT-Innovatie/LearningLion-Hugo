@@ -23,5 +23,7 @@ In een [Kamerbrief](https://open.overheid.nl/documenten/ronl-391fc340bc62f9c0b60
 ## Referenties
 
 [het Algoritmeregister](https://algoritmes.overheid.nl/)
+
 [Kamerbrief verplichte registratie Algoritmeregister](https://open.overheid.nl/documenten/ronl-391fc340bc62f9c0b60f7408f9d780aa6be5168e/pdf)
+
 [Handleiding Algoritmeregister](https://algoritmes.pleio.nl/wiki/view/828fc5d8-8bbb-4b85-ac37-ea5f30f4055f/handige-hulpmiddelen-algoritmeregister)
