@@ -1,6 +1,7 @@
 ---
 bookFlatSection: true
 title: "Het Algoritmeregister"
+authors: Lara Mutsaers
 ---
 
 # Het Algoritmeregister
