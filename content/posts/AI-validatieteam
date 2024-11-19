@@ -15,7 +15,7 @@ tags: [
 Vandaag hebben we gesproken met het [AI-Validatieteam](https://minbzk.github.io/ai-validation/). Zij werken aan verschillende projecten om meer inzicht te verkrijgen in algoritmes en hun gedragingen (transparantie). Ze willen meer grip krijgen op algoritmes die ingezet worden door overheden. 
 
 ## Het benchmarken van LLM's
-Eén van de projecten waar ze zich mee bezig hebben gehouden is het benchmarken van [taalmodellen (LLM’s)](/content/docs/Begrippenlijst/taalmodel.md).
+Eén van de projecten waar ze zich mee bezig hebben gehouden is het benchmarken van taalmodellen (LLM’s).
 
 LLM’s kunnen worden ingezet voor verschillende taken om het reguliere werk te vergemakkelijken. Maar, er zitten ook aanzienlijke risico’s aan verbonden. Het is niet gegarandeerd dat de output van een LLM altijd juist is. Bovendien kan een LLM bias vertonen. 
 
