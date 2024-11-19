@@ -5,10 +5,10 @@ linktitle: Overheidsbrede visie Generatieve AI
 title: Overheidbrede visie Generatieve AI
 weight: 10
 tags: [
-    "visie",
-    "verantwoorde AI",
-    "kennis over AI",
-    "wetgeving"
+    "Visie",
+    "Verantwoorde AI",
+    "Kennis over AI",
+    "Wetgeving"
 ]
 ---
 

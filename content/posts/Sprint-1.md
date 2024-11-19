@@ -5,9 +5,9 @@ linktitle: Technische sprint 1
 title: De uiktomsten van de eerste sprint
 weight: 10
 tags: [
-    "development",
+    "Development",
     "RAG-pipeline",
-    "use case Kamervragen",
+    "Use case Kamervragen",
 ]
 ---
 

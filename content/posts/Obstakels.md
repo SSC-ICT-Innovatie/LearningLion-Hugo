@@ -5,12 +5,12 @@ linktitle: Knelpunten bij AI-projecten binnen de Rijksoverheid
 title: Knelpunten bij AI-projecten binnen de Rijksoverheid
 weight: 10
 tags: [
-    "proces",
-    "kennis over AI",
-    "compliance",
-    "documentatie",
+    "Proces",
+    "Kennis over AI",
+    "Compliance",
+    "Documentatie",
     "AI-infrastructuur",
-    "wetgeving",
+    "Wetgeving",
 ]
 ---
 

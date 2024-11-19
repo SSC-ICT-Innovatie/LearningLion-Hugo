@@ -5,8 +5,8 @@ linktitle: De toekomst van AI binnen de overheid
 title: De toekomst van AI binnen de overheid
 weight: 10
 tags: [
-    "visie",
-    "strategie",
+    "Visie",
+    "Strategie",
 ]
 ---
 

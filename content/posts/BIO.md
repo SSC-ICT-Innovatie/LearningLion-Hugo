@@ -5,9 +5,9 @@ linktitle: Baseline Informatiebeveiliging Overheid (BIO)
 title: Baseline Informatiebeveiliging Overheid (BIO)
 weight: 10
 tags: [
-    "compliance",
-    "risico-analyse",
-    "informatiebeveiliging",
+    "Compliance",
+    "Risico-analyse",
+    "Informatiebeveiliging",
     "Verantwoorde AI",
 ]
 ---

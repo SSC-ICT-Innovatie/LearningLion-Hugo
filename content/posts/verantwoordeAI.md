@@ -5,8 +5,8 @@ linktitle: Hoe toets je verantwoorde AI?
 title: Hoe toets je verantwoorde AI?
 weight: 10
 tags: [
-    "verantwoorde AI",
-    "risico-analyse",
+    "Verantwoorde AI",
+    "Risico-analyse",
 ]
 ---
 

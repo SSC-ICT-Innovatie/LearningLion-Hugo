@@ -5,11 +5,12 @@ linktitle: Terug naar de technische tekentafel
 title: Terug naar de technische tekentafel (week 46 update)
 weight: 10
 tags: [
-    "proces",
+    "Proces",
     "Datascope",
-    "use case Kamervragen",
+    "Use case Kamervragen",
     "RAG-pipeline",
-    "development",
+    "Development",
+    "Finetunen",
 ]
 ---
 

@@ -5,9 +5,9 @@ linktitle: Observaties aanscherpen van de use case Kamervragen
 title: Observaties aanscherpen van de use case Kamervragen
 weight: 10
 tags: [
-    "proces",
-    "kennis over AI",
-    "use case Kamervragen",
+    "Proces",
+    "Kennis over AI",
+    "Use case Kamervragen",
 ]
 ---
 

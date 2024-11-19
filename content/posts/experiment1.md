@@ -5,8 +5,8 @@ linktitle: De resultaten van de eerste experimenten
 title: De resultaten van de eerste experimenten
 weight: 10
 tags: [
-    "use case Kamervragen",
-    "development",
+    "Use case Kamervragen",
+    "Development",
 ]
 ---
 

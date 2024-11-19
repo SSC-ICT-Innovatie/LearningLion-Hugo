@@ -5,9 +5,9 @@ linktitle: Een beschouwing op de eerste experimenten
 title: Een beschouwing op de eerste experimenten
 weight: 10
 tags: [
-    "development",
+    "Development",
     "RAG-pipeline",
-    "use case Kamervragen",
+    "Use case Kamervragen",
 ]
 ---
 
