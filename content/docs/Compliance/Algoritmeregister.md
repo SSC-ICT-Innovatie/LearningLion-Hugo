@@ -9,7 +9,7 @@ title: "Het Algoritmeregister"
 >
 > [Website van het Algoritmeregister](https://algoritmes.overheid.nl/nl/algoritme)
 
-Het Algoritmeregister geeft openheid over algoritmes en hun toepassing, zodat burgers, organisaties en media dit kritisch kan volgen en controleren of de wetten en regels gevolgd worden. Het helpt algoritmes vindbaar te maken, beter uit te leggen en hun toepassing en impact begrijpelijk te maken. De Algoritmetoezichthouder (de Autoriteit Persoonsgegevens) coördineert de controle op algoritmes: voldoen de algoritmes van de overheid aan alle regels die daarvoor gelden?
+Het Algoritmeregister geeft openheid over algoritmes en hun toepassing, zodat burgers, organisaties en media dit kritisch kan volgen en controleren of de wetten en regels gevolgd worden. Het helpt algoritmes vindbaar te maken, beter uit te leggen en hun toepassing en impact begrijpelijk te maken. [De Algoritmetoezichthouder (de Autoriteit Persoonsgegevens)](https://www.autoriteitpersoonsgegevens.nl/themas/algoritmes-ai/coordinatie-toezicht-algoritmes-ai) coördineert de controle op algoritmes: voldoen de algoritmes van de overheid aan alle regels die daarvoor gelden?
 
 Het Algoritmeregister heeft verschillende doelen:
 1.	Het vertrouwen in de overheid vergroten
@@ -29,3 +29,5 @@ In een [Kamerbrief](https://open.overheid.nl/documenten/ronl-391fc340bc62f9c0b60
 [Kamerbrief verplichte registratie Algoritmeregister](https://open.overheid.nl/documenten/ronl-391fc340bc62f9c0b60f7408f9d780aa6be5168e/pdf)
 
 [Handleiding Algoritmeregister](https://algoritmes.pleio.nl/wiki/view/828fc5d8-8bbb-4b85-ac37-ea5f30f4055f/handige-hulpmiddelen-algoritmeregister)
+
+[De Algoritmetoezichthouder (de Autoriteit Persoonsgegevens)](https://www.autoriteitpersoonsgegevens.nl/themas/algoritmes-ai/coordinatie-toezicht-algoritmes-ai)
