@@ -4,7 +4,7 @@ title: "AI-verordening (EU AI Act)"
 autors: Lara Mutsaers
 ---
 
-# AI-verordening (EU AI Act) en LearningLion
+# AI-verordening (EU AI Act) en LearningLion 
 
 Onlangs is de [AI-verordening (EU AI Act)](https://www.europarl.europa.eu/topics/nl/article/20230601STO93804/ai-verordening-eerste-regels-voor-artificiele-intelligentie) gefaseerd van kracht gegaan. Deze omvat eisen en kaders voor de ontwikkeling en het gebruik van AI-systemen door onder andere de overheid. Het doel is om ervoor te zorgen dat innovatie de ruimte krijgt, maar dat dat gebeurt op een veilige, transparante, traceerbare, niet-discriminerende en milieuvriendelijke manier. AI systemen mogen daarnaast nooit volledig geautomatiseerd zijn.
 
