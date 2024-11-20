@@ -3,7 +3,7 @@ linktitle: Hoog risico AI-systeem
 title: Hoog risico AI-systeem
 ---
 
-Onder hoog risico AI-systemen vallen onder andere systemen uit de volgende gebieden:
+Onder hoog risico AI-systemen vallen onder andere systemen die opereren in de volgende gebieden:
 - Biometrie;
 - Kritieke infrastructuur;
 - Onderwijs en beroepsopleiding;
