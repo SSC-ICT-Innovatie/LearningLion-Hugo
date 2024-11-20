@@ -1,5 +1,4 @@
 ---
-weight: 5
 bookCollapseSection: true
 title: "AI-verordening"
 disablePathToLower: true
