@@ -1,5 +1,6 @@
 ---
 title: "Versiebeheer use case Kamervragen"
+weight: 2
 ---
 
 ## Versie 0.7 (06-11-2024)
