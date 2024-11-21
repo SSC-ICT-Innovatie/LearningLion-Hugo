@@ -18,7 +18,7 @@ In de API zitten documenten die elk een unique document ID hebben. Deze document
 
 <img src="/KopKamervraag.png" alt="KopKamervraag">
 
-Bovenaan de pagina staat een nummering in de reeks Kamervragen per vergaderjaar (in dit geval 1314). Daarna volgt een inleiding waar onder andere de aanleiding van de vraag staat beschreven en wie de vraag stelt aan welke minister. In dit geval: “Vragen van de […] 25 maart 2024)”. Daarna volgt een opsomming van subvragen met bijbehorende antwoorden, waarbij steeds eerst de vraag wordt weergegeven en daarna het antwoord. Deze hebben hetzelfde nummer:
+Bovenaan de pagina staat een nummering in de reeks Kamervragen per vergaderjaar (in dit geval: 1314). Daarna volgt een inleiding waar onder andere de aanleiding van de vraag staat beschreven en wie de vraag stelt aan welke minister. In dit geval: “Vragen van de […] 25 maart 2024)”. Daarna volgt een opsomming van subvragen met bijbehorende antwoorden, waarbij steeds eerst de vraag wordt weergegeven en daarna het antwoord. Deze hebben hetzelfde nummer:
 
 <img src="/vraag-antwoord.png" alt="logo">
 
